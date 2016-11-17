@@ -7,16 +7,17 @@ J'ai écrit ce gitbook en vue de l'atelier
 pour le Capitole du Libre
 les 19 et 20 Novembre 2016 à Toulouse.
 
-Ce guide a pour objectif initial de permettre au public participant à l'atelier
+Ce guide(book) a pour objectif initial de permettre au public participant à l'atelier
 de construire une machine virtuelle tournant sous Ubuntu, 
 et disposant des briques nécessaires pour être un cloud personnel.
 
 Ce guide n'a pas vocation à être la référence absolue en matière d'auto-hébergement.
 
-Il existe beaucoup de solution à l'heure actuelle,
+Il existe beaucoup de solutions à l'heure actuelle,
 et je ne pourrais prétendre toutes les connaître.
+J'essaierais néanmoins de lister celles dont j'ai eu vent, 
+et proposer ma vision sur ses solutions.
 
-J'essaie simplement de partager ma connaissance autour de l'auto-hébergement.
 
 En fonction des retours, ce guide pourra être amené à évoluer,
 et intégrer des conseils d'installation d'autres solutions libres, 
