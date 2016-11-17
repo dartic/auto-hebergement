@@ -2,19 +2,20 @@
 
 On va télécharger la version serveur, accessible ici :
 
-https://www.ubuntu.com/server
+<https://www.ubuntu.com/server>
 
-L'idée de partir sur une version serveur est d'avoir une machine sans IHM pour ne pas surcharger la machine de la gestion graphique.
+L'idée de partir sur une version serveur est d'avoir une machine plus légère
+qu'une machine intégrant les processus d'affichage graphique.
 
-On pourra monitorer la machine avec d'autres services si besoin.
-
------------
+Les pages suivantes détaillent les différentes étapes 
+pour aboutir à l'installation d'un serveur ubuntu,
+préconfiguré pour accueillir une installation de la solution Nextcloud.
 
 ## Langage / Composants / Réseau
 
-![Choix du langage](./1-install-ubuntu-server/1.png)
-![Chargement des composants supplémentaires](./1-install-ubuntu-server/2.png)
-![Configurer le réseau](./1-install-ubuntu-server/3.png)
+![Choix du langage](./1.png)
+![Chargement des composants supplémentaires](./2.png)
+![Configurer le réseau](./3.png)
 
 -----------
 
