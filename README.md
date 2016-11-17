@@ -32,13 +32,13 @@ type mail par exemple.
     + état de l'outil
     + pourquoi l'avoir choisi ?
 - installation de Nextcloud
-- découverte de Nextcloud
-- découverte et installation de quelques extensions
+  - découverte de Nextcloud
+  - découverte et installation de quelques extensions
     + calendrier 
     + contacts
     + mail
     + ?
-- la synchronisation
+  - la synchronisation
     + smartphone
     + desktop
 - et pour finir...
