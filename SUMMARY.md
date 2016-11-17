@@ -7,4 +7,5 @@
    * [Installation de Ubuntu Server](pages/ubuntu/installation_de_ubuntu_server.md)
 * [Nextcloud](pages/nextcloud/installation.md)
    * Présentation de Nextcloud
+   * Installation
 
