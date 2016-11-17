@@ -9,4 +9,5 @@
    * Présentation
    * Installation
    * Découverte
+   * Installation d'applications
 
