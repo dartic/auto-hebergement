@@ -10,4 +10,5 @@
    * Installation
    * Découverte
    * Installation d'applications
+   * La synchronisation
 
