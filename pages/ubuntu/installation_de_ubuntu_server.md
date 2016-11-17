@@ -34,6 +34,15 @@ préconfiguré pour accueillir une installation de la solution Nextcloud.
 ![Partitionner les disques](./8.png)
 ![Phrase secrète](./9.png)
 ![Quantité d'espace](./10.png)
+![Quantité d'espace](./11.png)
+![Quantité d'espace](./12.png)
+![Quantité d'espace](./13.png)
+![Quantité d'espace](./14.png)
+![Quantité d'espace](./15.png)
+![Quantité d'espace](./16.png)
+![Quantité d'espace](./10.png)
+![Quantité d'espace](./10.png)
+![Quantité d'espace](./10.png)
 ## Pour terminer l'installation
 
 Installation de openssh-server
