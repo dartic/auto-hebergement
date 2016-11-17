@@ -1,21 +1,31 @@
 # L'auto-hébergement, mode d'emploi
 
+Ce gitbook a été écrit par Mathieu Dartigues 
+en vue de l'atelier 'Auto-hébergement, mode d'emploi' pour le Capitole du Libre
+les 19 et 20 Novembre 2016 à Toulouse.
 
-## Quelques définitions
+Ce guide a pour objectif initial de permettre au public participant à l'atelier
+de construire une machine virtuelle tournant sous Ubuntu, 
+et disposant des briques nécessaires pour être un cloud personnel.
 
+Ce guide n'a pas vocation à être la référence absolue en matière d'auto-hébergement.
 
-### Auto => Autonomie
+Il existe beaucoup de solution à l'heure actuelle,
+et je ne pourrais prétendre toutes les connaître.
 
+J'essaie simplement de partager ma connaissance autour de l'auto-hébergement.
 
-> L'autonomie désigne la capacité d'un objet, individu ou système à se gouverner soi-même, selon ses propres règles.
+En fonction des retours, ce guide pourra être amené à évoluer,
+et intégrer des conseils d'installation d'autres solutions libres, 
+type mail par exemple.
 
-Wikipedia, <https://fr.wikipedia.org/wiki/Autonomie>
+## Contribues !
 
+Si tu penses avoir vu une anomalie, 
+ou si le guide n'est pas assez précis,
+ou si tu as une amélioration à proposer, 
+n'hésites pas !
 
+- ouvre une issue pour en discuter sur https://github.com/dartic/auto-hebergement/issues
+- ou mieux, propose une Pull Request sur https://github.com/dartic/auto-hebergement/pulls
 
-
-
-
-
-
-Guide sur l'auto-hébergement, procédures d'installation et conseils autour de solution cloud, mails, ...
