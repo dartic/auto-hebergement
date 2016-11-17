@@ -1,7 +1,10 @@
 # L'auto-hébergement, mode d'emploi
 
-Ce gitbook a été écrit par Mathieu Dartigues (@mdartic)
-en vue de l'atelier 'Auto-hébergement, mode d'emploi' pour le Capitole du Libre
+Je suis Mathieu Dartigues (@mdartic).
+
+J'ai écrit ce gitbook en vue de l'atelier 
+**Auto-hébergement, mode d'emploi**
+pour le Capitole du Libre
 les 19 et 20 Novembre 2016 à Toulouse.
 
 Ce guide a pour objectif initial de permettre au public participant à l'atelier
