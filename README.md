@@ -19,6 +19,17 @@ En fonction des retours, ce guide pourra être amené à évoluer,
 et intégrer des conseils d'installation d'autres solutions libres, 
 type mail par exemple.
 
+## Déroulé de l'atelier
+
+
+
+## Work in progress
+
+Ce guide est en cours d'écriture, pour être 'lisible' et 'utilisable'
+le jour de l'atelier.
+
+Les pages qui sont marquées 'Wip' ne sont pas encore finalisées.
+
 ## Contribues !
 
 Si tu penses avoir vu une anomalie, 
