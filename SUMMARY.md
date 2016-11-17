@@ -11,4 +11,5 @@
    * Découverte
    * Installation d'applications
    * La synchronisation
+* Et après ?
 
