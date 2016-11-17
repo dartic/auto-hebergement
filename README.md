@@ -26,9 +26,9 @@ type mail par exemple.
 
 ## Déroulé de l'atelier
 
-- quelques définitions
-- installation d'une VM Ubuntu Server (déjà fournie)
-- installation de Nextcloud
+- [quelques définitions](pages/definitions/definitions.md)
+- [installation d'une VM Ubuntu Server (déjà fournie)](pages/ubuntu/installation.md)
+- [installation de Nextcloud](pages/nextcloud/installation.md)
   - présentation de Nextcloud
     + histoire du projet Owncloud
     + état de l'outil
