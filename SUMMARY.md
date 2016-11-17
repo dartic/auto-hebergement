@@ -1,6 +1,6 @@
 # Summary
 
 * [Définitions](definitions.md)
-* Installation d'un serveur Ubuntu
 * [Nextcloud](nextcloud.md)
+* [Installation d'un serveur Ubuntu](installation_dun_serveur_ubuntu.md)
 
