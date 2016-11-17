@@ -26,12 +26,13 @@ type mail par exemple.
 
 ## Déroulé de l'atelier
 
+- quelques définitions
 - installation d'une VM Ubuntu Server (déjà fournie)
-- présentation de Nextcloud
+- installation de Nextcloud
+  - présentation de Nextcloud
     + histoire du projet Owncloud
     + état de l'outil
     + pourquoi l'avoir choisi ?
-- installation de Nextcloud
   - découverte de Nextcloud
   - découverte et installation de quelques extensions
     + calendrier 
