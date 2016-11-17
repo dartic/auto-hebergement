@@ -8,4 +8,5 @@
 * [Nextcloud](pages/nextcloud/installation.md)
    * Présentation
    * Installation
+   * Découverte
 
