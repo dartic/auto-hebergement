@@ -26,6 +26,26 @@ type mail par exemple.
 
 ## Déroulé de l'atelier
 
+- installation d'une VM Ubuntu Server (déjà fournie)
+- présentation de Nextcloud
+    + histoire du projet Owncloud
+    + état de l'outil
+    + pourquoi l'avoir choisi ?
+- installation de Nextcloud
+- découverte de Nextcloud
+- découverte et installation de quelques extensions
+    + calendrier 
+    + contacts
+    + mail
+    + ?
+- la synchronisation
+    + smartphone
+    + desktop
+- et pour finir...
+    + le reste, le serveur de mails
+    + les annuaires
+    + à la maison, comment je fais ?
+
 
 
 
