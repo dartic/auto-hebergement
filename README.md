@@ -11,6 +11,7 @@ Ce guide(book) a pour objectif initial
 de permettre au public participant à l'atelier
 de construire une machine virtuelle tournant sous Ubuntu, 
 et disposant des briques nécessaires pour être un cloud personnel.
+La solution retenue pour le cloud est [Nextcloud](http://nextcloud.com/).
 
 Ce guide n'a pas vocation à être la référence absolue en matière d'auto-hébergement.
 
@@ -24,6 +25,7 @@ et intégrer des conseils d'installation d'autres solutions libres,
 type mail par exemple.
 
 ## Déroulé de l'atelier
+
 
 
 
