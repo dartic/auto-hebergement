@@ -33,7 +33,7 @@ type mail par exemple.
     + histoire du projet Owncloud
     + état de l'outil
     + pourquoi l'avoir choisi ?
-  - découverte de Nextcloud
+  - installation de Nextcloud
   - découverte et installation de quelques extensions
     + calendrier 
     + contacts
