@@ -4,7 +4,7 @@ Je suis Mathieu Dartigues (@mdartic).
 
 J'ai écrit ce gitbook en vue de l'atelier 
 **Auto-hébergement, mode d'emploi**
-pour le Capitole du Libre
+pour le [Capitole du Libre](https://www.capitoledulibre.org/)
 les 19 et 20 Novembre 2016 à Toulouse.
 
 Ce guide(book) a pour objectif initial 
