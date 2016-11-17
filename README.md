@@ -7,7 +7,8 @@ J'ai écrit ce gitbook en vue de l'atelier
 pour le Capitole du Libre
 les 19 et 20 Novembre 2016 à Toulouse.
 
-Ce guide(book) a pour objectif initial de permettre au public participant à l'atelier
+Ce guide(book) a pour objectif initial 
+de permettre au public participant à l'atelier
 de construire une machine virtuelle tournant sous Ubuntu, 
 et disposant des briques nécessaires pour être un cloud personnel.
 
