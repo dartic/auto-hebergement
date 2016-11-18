@@ -8,8 +8,7 @@
    * [Configuration de la VM](pages/ubuntu/configuration_de_la_vm.md)
 * [Nextcloud](pages/nextcloud/installation.md)
    * [Présentation](pages/nextcloud/presentation.md)
-   * [Installation](pages/nextcloud/installation.md)
-   * Découverte
+   * [Découverte](pages/nextcloud/decouverte.md)
    * Installation d'applications
    * La synchronisation
 * [Et après ?](pages/et_apres.md)
