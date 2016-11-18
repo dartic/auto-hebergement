@@ -8,7 +8,7 @@
 
 - ajout de nouveaux fichiers texte
 - upload d'images
-- visualisation de la gallerie
+- visualisation de la galerie
 
 ## La customisation du thème
 - changement de la couleur du fond
