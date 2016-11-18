@@ -12,15 +12,10 @@ Les pages suivantes détaillent les différentes étapes
 pour aboutir à l'installation d'un serveur ubuntu,
 préconfiguré pour accueillir une installation de la solution Nextcloud.
 
-## Langage / Composants / Réseau
 
 ![Choix du langage](./1.png)
 ![Chargement des composants supplémentaires](./2.png)
 ![Configurer le réseau](./3.png)
-
------------
-
-## Utilisateurs / Horloge
 
 ![Création](./4.png)
 ![Mot de passe](./5.png)
