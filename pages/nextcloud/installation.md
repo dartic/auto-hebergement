@@ -1,5 +1,11 @@
 # Installation
 
+Pour cela, on va suivre l'install par 
+
+<https://nextcloud.com/install/>
+
+<https://nextcloud.com/install/#instructions-server>
+
 ## Téléchargement de nextcloud depuis la VM
 
     curl https://download.nextcloud.com/server/installer/setup-nextcloud.php > setup-nextcloud.php
