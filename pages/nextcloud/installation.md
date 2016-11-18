@@ -74,9 +74,3 @@ Et voilà !
 
 Nous avons terminé l'installation basique de Nextcloud !
 
-## La configuration avancée
-
-via le config.php,
-
-Par exemple, on peut changer l'application par défaut : mail
-
