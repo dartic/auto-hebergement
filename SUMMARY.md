@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * Demandez le programme !
 * [Déroulé de l'atelier](programme.md)
 * [Définitions](pages/definitions/definitions.md)
 * [Installation d'un VM Ubuntu Server](pages/ubuntu/installation.md)
