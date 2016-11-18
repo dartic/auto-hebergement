@@ -13,18 +13,19 @@ et créé le fork Nextcloud.
 En partant de ownCloud, 
 plusieurs collaborateurs l'ont suivi dans son projet.
 
-ownCloud reste maintenu par la société allemenade ownCloud S
+ownCloud reste maintenu par la société allemande ownCloud GmbH.
 
-Malgré son jeune âge, il dispose de tout le background d'ownCloud,
+Malgré son jeune âge, il dispose de tout l'historique d'ownCloud,
 et la communauté a progressé très rapidement 
 en proposant des applications plus agréable à utiliser.
 
-ownCloud est un projet toujours maintenu, 
+J'ai choisi cette solution car, même si elle est jeune,
+elle est issu d'un projet reconnu par la communauté,
+bénéficie d'une cure de jouvence depuis le fork,
+et elle est facile à installer.
 
-(https://en.wikipedia.org/wiki/Nextcloud)
-    + histoire du projet ownCloud
-    + état de l'outil
-    + pourquoi l'avoir choisi ?
+C'est donc un projet intéressant pour apprendre 
+comment fonctionne un serveur d'hébergement et de partage de fichiers.
 
 ## Quelques références de l'histoire owncloud > nextcloud
 
