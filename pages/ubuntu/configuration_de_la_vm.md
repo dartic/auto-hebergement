@@ -31,9 +31,6 @@ Si désormais on va sur la page `http://192.168.1.18`, on obtient
 ![](apache-default-page.png)
 
 
-## Sécurisation du serveur Apache
-
-https://certbot.eff.org/
 
 ## Augmentation de la taille d'upload
 
