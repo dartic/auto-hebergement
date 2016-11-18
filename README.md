@@ -19,6 +19,7 @@ Ce guide n'a pas vocation à être la référence absolue en matière d'auto-hé
 
 Il existe beaucoup de solutions à l'heure actuelle,
 et je ne pourrais prétendre toutes les connaître.
+
 J'essaierais néanmoins de lister celles dont j'ai eu vent, 
 et proposer ma vision sur ses solutions.
 
