@@ -21,11 +21,22 @@ Il existe beaucoup de solutions à l'heure actuelle,
 et je ne pourrais prétendre toutes les connaître.
 
 J'essaierais néanmoins de lister celles dont j'ai eu vent, 
-et proposer ma vision sur ses solutions.
+et proposer ma vision sur ses solutions. 
 
 En fonction des retours, ce guide pourra être amené à évoluer,
 et intégrer des conseils d'installation d'autres solutions libres, 
 type mail par exemple.
+
+Bien entendu, 
+si tu penses avoir vu une anomalie, 
+ou si le guide n'est pas assez précis,
+ou si tu as une amélioration à proposer, 
+n'hésites pas !
+
+- ouvre une issue pour en discuter sur https://github.com/dartic/auto-hebergement/issues
+- ou mieux, propose une Pull Request sur https://github.com/dartic/auto-hebergement/pulls
+
+
 
 ## Déroulé de l'atelier
 
@@ -59,14 +70,3 @@ Ce guide est en cours d'écriture, pour être 'lisible' et 'utilisable'
 le jour de l'atelier.
 
 Les pages qui sont marquées 'Wip' ne sont pas encore finalisées.
-
-## Contribues !
-
-Si tu penses avoir vu une anomalie, 
-ou si le guide n'est pas assez précis,
-ou si tu as une amélioration à proposer, 
-n'hésites pas !
-
-- ouvre une issue pour en discuter sur https://github.com/dartic/auto-hebergement/issues
-- ou mieux, propose une Pull Request sur https://github.com/dartic/auto-hebergement/pulls
-
