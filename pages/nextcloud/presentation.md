@@ -1,11 +1,15 @@
 # Présentation
 
-[Nextcloud](https://nextcloud.com) est un projet full open source, fork du projet [ownCloud](http://owncloud.org/).
+Nextcloud est un projet full open source, fork du projet ownCloud.
 
 C'est une solution d'hébergement privé de données, fichiers ou autre.
 
 C'est un projet très récent, Juin 2016, 
 qui est un fork de ownCloud, qui lui avait commencé en 2011.
+
+Malgré son jeune âge, il dispose de tout le background d'ownCloud,
+et la communauté a progressé très rapidement 
+en proposant des applications plus agréable à utiliser.
 
 (https://en.wikipedia.org/wiki/Nextcloud)
     + histoire du projet ownCloud
