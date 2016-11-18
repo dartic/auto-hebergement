@@ -17,6 +17,8 @@ On va se rajouter aux utilisateurs du groupe www-data
     cp setup-nextcloud.php /var/www/html
 
 
+## Procédure d'installation
+
 http://192.168.1.17/setup-nextcloud.php
 
 ![Wizard 1](wizard-1.png)
