@@ -27,10 +27,6 @@ Clairement, elles pourront être analysées,
 mais il est très peu probable qu'elles soient altérées ou détruites.
 
 Ceci étant dit, je ne souhaite pas nous décourager, 
-car je 
+car je défend la philosophie de reprendre la maîtrise de nos données.
 
-Si 
-préciser que l'on va centrer l'auto hébergement sur le cloud, 
-mais que l'on verra à la fin les autres choses type mail, et  ?...
-gestionnaire de version par exemple avec gitlab, ... ?
-les services de Framasoft...
+Néanmoins, soyez avertis !
