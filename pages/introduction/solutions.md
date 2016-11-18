@@ -14,4 +14,4 @@ Il n'y a pas de restriction !
 | Nextcloud | Hébergement de fichiers | http://nextcloud.com |
 | Cozy | Hébergement de fichiers | http://cozy.io |
 | GitLab | Versioning de code source | http://gitlab.com |
-| iRedMail | Serveur mail | www.iredmail.org/ |
+| iRedMail | Serveur mail | http://www.iredmail.org/ |
