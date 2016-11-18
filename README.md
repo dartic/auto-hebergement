@@ -33,8 +33,8 @@ ou si le guide n'est pas assez précis,
 ou si tu as une amélioration à proposer, 
 n'hésites pas !
 
-- ouvre une issue pour en discuter sur https://github.com/dartic/auto-hebergement/issues
-- ou mieux, propose une Pull Request sur https://github.com/dartic/auto-hebergement/pulls
+- ouvre une issue pour en discuter sur <https://github.com/dartic/auto-hebergement/issues>
+- ou mieux, propose une Pull Request sur <https://github.com/dartic/auto-hebergement/pulls>
 
 
 
