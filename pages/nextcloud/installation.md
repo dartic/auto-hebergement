@@ -18,17 +18,6 @@ En effet, le répertoire `/var/www/html` a été créé par l'utilisateur `root`
 et ne peut pas être écrit directement par un utilisateur 'lambda'.
 
 
-Lorsque l'installation 
-
-On va changer les droits du répertoire (propriétaire et groupe).
-
-    sudo chown -R www-data /var/www
-    sudo chgrp -R www-data /var/www
-
-On va se rajouter aux utilisateurs du groupe www-data
-
-    cp setup-nextcloud.php /var/www/html
-
 
 ## Procédure d'installation
 
