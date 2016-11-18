@@ -27,7 +27,7 @@ A travers le panneau d'administration :
 
 ## La customisation du thème
 
-- - changement des textes d'accueil
+- changement des textes d'accueil
 - changement de la couleur du fond
 - ajout d'un logo
 - ajout d'une image de fond pour la page de login
