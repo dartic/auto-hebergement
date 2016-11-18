@@ -12,9 +12,9 @@
    * [Détails d'architecture](pages/ubuntu/architecture.md)
 * [Nextcloud](pages/nextcloud/installation.md)
    * [Présentation](pages/nextcloud/presentation.md)
+   * Installation
    * [Découverte](pages/nextcloud/decouverte.md)
    * [Installation d'applications](pages/nextcloud/installation_dapplications.md)
    * [La synchronisation](pages/nextcloud/synchronisation.md)
-   * Installation
 * [Et après ?](pages/et_apres.md)
 
