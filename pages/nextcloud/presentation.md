@@ -27,7 +27,7 @@ et elle est facile à installer.
 C'est donc un projet intéressant pour apprendre 
 comment fonctionne un serveur d'hébergement et de partage de fichiers.
 
-## Quelques références de l'histoire owncloud > nextcloud
+## Quelques références de l'histoire récente de nextcloud
 
 4 Avril 2016
 http://karlitschek.de/2016/04/big-changes-i-am-leaving-owncloud-inc-today/
