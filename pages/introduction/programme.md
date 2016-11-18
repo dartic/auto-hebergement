@@ -4,8 +4,7 @@ Cet atelier va nous permettre de découvrir le fonctionnement
 de la solution d'hébergement privé Nextcloud.
 
 On commence par diffuser la VM Ubuntu Server sur clé USB.
-
-sur l'installation d'une VM Ubuntu Server (fournie sur clé).
+Pour ceux qui voudront l'installer eux même, rendez vous [à la page d'installation Ubuntu Server](pages/ubuntu/installation.md).
 
 Pendant ce temps, on précise l'atelier : définitions, périmètre de l'atelier.
 
