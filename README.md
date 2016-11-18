@@ -1,5 +1,21 @@
 # L'auto-hébergement, mode d'emploi
 
+> A l'heure ou nos amis du GAFA absorbent allègrement nos données personnelles, 
+> 
+> Mais aussi où les logiciels libres arrivent à maturité sur certaines problématiques, 
+> 
+> Nous avons aujourd'hui le choix de continuer l'utilisation de services gratuits, 
+> 
+> mais peu respectueux de notre vie privée, 
+> 
+> Ou d'essayer à maîtriser, 
+> 
+> mettre en place les outils existant pour redevenir maître de nos données... 
+> 
+> Du moins, un peu plus...
+
+https://2016.capitoledulibre.org/programme.html#lautohebergement-mode-demploi
+
 Je suis Mathieu Dartigues (@mdartic).
 
 J'ai écrit ce gitbook en vue de l'atelier 
