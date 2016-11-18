@@ -29,9 +29,36 @@ Wikipedia, <https://fr.wikipedia.org/wiki/H%C3%A9bergeur_web>
 > L'auto-hébergement est une pratique 
 > consistant à héberger ses services Internet personnels 
 > sur ses propres machines, chez soi. 
+> 
 > Il s'oppose à l'utilisation de services d'hébergements chez un prestataire.
 
 Wikipedia, <https://fr.wikipedia.org/wiki/Auto-h%C3%A9bergement_(Internet)>
+
+## Cloud
+
+> Le cloud computing, 
+> ou l’informatique en nuage ou nuagique ou encore l’infonuagique (au Québec), 
+> est l'exploitation de la puissance de calcul 
+> ou de stockage de serveurs informatiques distants 
+> par l'intermédiaire d'un réseau, généralement internet. 
+> 
+> Ces serveurs sont loués à la demande, 
+> le plus souvent par tranche d'utilisation selon des critères techniques 
+> (puissance, bande passante, etc.) mais également au forfait. 
+> 
+> Le cloud computing se caractérise par sa grande souplesse : 
+> selon le niveau de compétence de l'utilisateur client, 
+> il est possible de gérer soi-même son serveur 
+> ou de se contenter d'utiliser des applicatifs distants en mode SaaS. 
+> 
+> Selon la définition du National Institute of Standards and Technology (NIST), 
+> le cloud computing est l'accès via un réseau de télécommunications, 
+> à la demande et en libre-service, 
+> à des ressources informatiques partagées configurables. 
+> 
+> **Il s'agit donc d'une délocalisation de l'infrastructure informatique.**
+
+Wikipedia, <https://fr.wikipedia.org/wiki/Cloud_computing>
 
 ## Pour conclure
 
