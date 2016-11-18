@@ -4,8 +4,12 @@
 
 On ne peut pas encore accéder à la VM depuis notre navigateur.
 
-Si on fait un ifconfig sur la VM, que l'on prend l'IP en 10.x.x.x, 
-et qu'on la rentre sur un navigateur, aucune réponse.
+Si on fait un `ifconfig` en ligne de commande sur la VM, 
+
+
+que l'on prend l'IP en 10.x.x.x, 
+et qu'on la rentre sur un navigateur en http://10.x.x.x, aucune réponse.
+
 Idem pour le ping.
 
 Nous devons configurer l'accès réseau de la VM.
