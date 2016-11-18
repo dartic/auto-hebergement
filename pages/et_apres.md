@@ -10,6 +10,11 @@ et la qualité semble au rendez-vous.
 
 N'hésitez pas à suivre leurs projets GitHub et y contribuer !
 
+
+## Sécurisation du serveur Apache
+
+https://certbot.eff.org/
+
 ## Installation serveur mail
 
 Quelles sont les technos libres actuelles :
