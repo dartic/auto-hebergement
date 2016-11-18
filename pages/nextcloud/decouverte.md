@@ -5,6 +5,7 @@
 - menu applicatif en haut à gauche
 - menu utilisateur en haut à droite
 - partie centrale = visualisation des fichiers, interactions principales
+- en bas à gauche, paramétrage de l'application courante
 
 
 ## Le fonctionnement de l'explorateur de fichier
