@@ -3,9 +3,9 @@
 Voici un listing, non exhaustif,
 des différentes solutions open source permettant de l'auto-hébergement.
 
-Ces solutions peuvent être pour de l'hébergement de fichier, mails, ... ! 
+Ces solutions peuvent être logicielles, matérielles,
+pour de l'hébergement de fichier, mails, faire des visio, du vpn...
 
-Mais aussi pour visualiser des mails, faire des visio, du vpn...
 Il n'y a pas de restriction !
 
 | Solution | Domaine | Site web |
