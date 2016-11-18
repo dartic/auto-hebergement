@@ -1,5 +1,15 @@
 # Et après ? 
 
+L'avenir de Nextcloud est à suivre de près, mais, 
+si vous avez un projet à suivre de près, je vous conseille cozy.io .
+
+Jeune pousse, avec Tristan Nitot qui a rejoint la troupe récemment,
+ce projet semble en très belle progression. 
+De nombreuses apps semblent se mettre en place, 
+et la qualité semble au rendez-vous.
+
+N'hésitez pas à suivre leurs projets GitHub et y contribuer !
+
 ## Installation serveur mail
 
 Quelles sont les technos libres actuelles :
