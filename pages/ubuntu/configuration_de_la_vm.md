@@ -13,7 +13,7 @@ et qu'on la rentre sur un navigateur en http://10.0.2.15, aucune réponse.
 
 Idem pour le ping.
 
-Nous devons configurer l'accès réseau de la VM en *Accès par pont*
+Nous devons configurer l'accès réseau de la VM en `Accès par pont`.
 
 <http://askubuntu.com/questions/237461/how-do-i-access-ubuntu-server-running-in-virtualbox-from-outside#237467>
 
