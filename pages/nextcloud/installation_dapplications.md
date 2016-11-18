@@ -1,8 +1,8 @@
 # Installation d'applications
 
-## L'ajout d'application
+## L'ajout d'application via le bouton '+ Applications'
 
-### via le bouton '+ Applications', par exemple
+
 
 - calendrier
 - contacts
