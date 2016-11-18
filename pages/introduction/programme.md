@@ -12,9 +12,6 @@ Pendant ce temps, on précise l'atelier : définitions, périmètre de l'atelier
 - [installation d'une VM Ubuntu Server (déjà fournie)](pages/ubuntu/installation.md)
 - [installation de Nextcloud](pages/nextcloud/installation.md)
   - présentation de Nextcloud
-    + histoire du projet ownCloud
-    + état de l'outil
-    + pourquoi l'avoir choisi ?
   - installation de Nextcloud
   - découverte et installation de quelques extensions
     + calendrier 
