@@ -1,6 +1,5 @@
 # Déroulé de l'atelier
 
-
 - [quelques définitions](pages/definitions/definitions.md)
 - [installation d'une VM Ubuntu Server (déjà fournie)](pages/ubuntu/installation.md)
 - [installation de Nextcloud](pages/nextcloud/installation.md)
