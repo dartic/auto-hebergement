@@ -1,11 +1,5 @@
 # Configuration de la VM
 
-## Sécurisation du serveur Apache
-
-https://certbot.eff.org/
-
-## Augmentation de la taille d'upload
-
 ## Mise en état de marche de la VM
 
 On ne peut pas encore accéder à la VM depuis notre navigateur.
@@ -20,3 +14,10 @@ C'est normal, nous devons configurer l'accès réseau de la VM.
 <http://askubuntu.com/questions/237461/how-do-i-access-ubuntu-server-running-in-virtualbox-from-outside#237467>
 
 ![Network as a bridge](virtual-box-reseau-bridge.png)
+
+## Sécurisation du serveur Apache
+
+https://certbot.eff.org/
+
+## Augmentation de la taille d'upload
+
