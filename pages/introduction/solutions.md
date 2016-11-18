@@ -17,5 +17,6 @@ Il n'y a pas de restriction !
 | iRedMail | Serveur messagerie | http://www.iredmail.org/ |
 | OBM | Serveur messagerie | https://www.linagora.com/obm |
 | Bluemind | Serveur messagerie | https://www.bluemind.net/ |
+| Yunohost | Serveur multi-services | http://yunohost.org/ |
 
 Et un petit tour chez https://framasoft.org/ vous donnera plein d'idées !
