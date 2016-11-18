@@ -35,11 +35,3 @@ n'hésites pas !
 
 - ouvre une issue pour en discuter sur <https://github.com/dartic/auto-hebergement/issues>
 - ou mieux, propose une Pull Request sur <https://github.com/dartic/auto-hebergement/pulls>
-
-
-## Work in progress
-
-Ce guide est en cours d'écriture, pour être 'lisible' et 'utilisable'
-le jour de l'atelier.
-
-Les pages qui sont marquées 'Wip' ne sont pas encore finalisées.
