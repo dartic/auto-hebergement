@@ -35,3 +35,5 @@ n'hésites pas !
 
 - ouvre une issue pour en discuter sur <https://github.com/dartic/auto-hebergement/issues>
 - ou mieux, propose une Pull Request sur <https://github.com/dartic/auto-hebergement/pulls>
+
+Bonne lecture !
