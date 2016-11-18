@@ -1,6 +1,9 @@
 # Présentation
 
+[Nextcloud](https://nextcloud.com) est un projet full open source,
+fork du projet [ownCloud](http://owncloud.org/).
 
+(https://en.wikipedia.org/wiki/Nextcloud)
 
 ## Quelques références de l'histoire owncloud > nextcloud
 
