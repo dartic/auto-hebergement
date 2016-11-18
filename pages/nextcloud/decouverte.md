@@ -10,6 +10,12 @@
 - upload d'images
 - visualisation de la galerie
 
+## Gestion des utilisateurs
+
+- ajout d'un nouvel utilisateur
+- ajout d'un nouveau groupe
+- ajout d'un utilisateur à un ou plusieurs groupes
+
 ## Le partage de fichiers
 
 - auprès du grand public
