@@ -1,2 +1,32 @@
 # Et après ?
 
+## Installation serveur mail
+
+Quelles sont les technos libres actuelles :
+- Linagora =>
+- Bluemind => solution mail / calendrier / contacts
+- PostMail !... iRedMail, assemblage de divers composants
+
+Je conseille plutôt iRedMail, paquet qui comprend beaucoup de services déjà pré installés :
+
+http://www.iredmail.org/
+
+Avec un petit raspberry, ça peut se faire facilement.
+
+Il faudra alors donner une IP fixe au raspberry, 
+au préalable définir la plage d'IP fixe de la box,
+puis ensuite créer une redirection de port depuis la box 
+pour pouvoir accéder au raspberry depuis l'extérieur.
+
+Attention cependant, il faudra bien au préalable 
+- définir un certificat de sécurité
+- rediriger les flux http vers https
+- définir des règles de sécurité comme un fail2ban
+- monitorer les connections pour détecter toute attaque suspecte...
+- définir ce que l'on considère comme une coupure acceptable (électrique, réseau,...) et le PRA / PCA dépendant
+
+Et ça devrait marcher correctement :-)
+
+Quelques liens :
+
+https://yunohost.org/#/
