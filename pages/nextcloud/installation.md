@@ -30,6 +30,10 @@ http://192.168.1.18/setup-nextcloud.php
     sudo apt-get install php-xml php-curl php-zip php-mbstring php-gd
 
     sudo service apache2 restart
+    
+Nous rencontrons un problème de droit utilisateur...
+
+![](nextcloud-dependency-fail.png)
 
 ![Wizard 3](wizard-3.png)
 
