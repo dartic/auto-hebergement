@@ -13,6 +13,8 @@ Pour cela, on va suivre l'install par
 
 On va le copier dans le répertoire /var/www, mais erreur de droits...
 
+![](nextcloud-download-1.png)
+
 On va changer les droits du répertoire (propriétaire et groupe).
 
     sudo chown -R www-data /var/www
