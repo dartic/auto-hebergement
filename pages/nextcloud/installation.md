@@ -22,3 +22,10 @@ Il pourrait être utile de le mettre dans un sous répertoire néanmoins.
 ![Wizard 6.2](wizard-6.2.png)
 
 ![Wizard 5](wizard-7.png)
+
+## La configuration avancée
+
+via le config.php,
+
+Par exemple, on peut changer l'application par défaut : mail
+
