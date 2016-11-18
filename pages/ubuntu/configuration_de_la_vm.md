@@ -10,6 +10,8 @@ Idem pour le ping.
 
 Nous devons configurer l'accès réseau de la VM.
 
+
+
 - configuration de la carte réseau en bridge / pont
 <http://askubuntu.com/questions/237461/how-do-i-access-ubuntu-server-running-in-virtualbox-from-outside#237467>
 
