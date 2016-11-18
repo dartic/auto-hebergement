@@ -5,6 +5,7 @@
 - accès à un ensemble d'applications 'certifiées'
 - installation de calendrier
 - installation de contacts
+- installation de stockage externe (External storage support)
 
 Et la découverte de leur fonctionnement, via le web,
 ou via une app Android qui permet de câbler son calendrier,
