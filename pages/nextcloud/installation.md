@@ -66,10 +66,13 @@ Il pourrait être utile de le mettre dans un sous répertoire néanmoins.
 
 ![Wizard 5](wizard-5.png)
 
-![Wizard 6.1](wizard-6.1.png)
-![Wizard 6.2](wizard-6.2.png)
+![Wizard 6.1](nextcloud-conf.png)
 
 ![Wizard 5](wizard-7.png)
+
+Et voilà !
+
+Nous avons terminé l'installation basique de Nextcloud !
 
 ## La configuration avancée
 
