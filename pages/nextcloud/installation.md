@@ -1,5 +1,22 @@
 # Installation
 
+## Téléchargement de nextcloud depuis la VM
+
+    curl https://download.nextcloud.com/server/installer/setup-nextcloud.php > setup-nextcloud.php
+    cp setup-nextcloud.php /var/www/html
+
+On va le copier dans le répertoire /var/www, mais erreur de droits...
+
+On va changer les droits du répertoire (propriétaire et groupe).
+
+    sudo chown -R www-data /var/www
+    sudo chgrp -R www-data /var/www
+
+On va se rajouter aux utilisateurs du groupe www-data
+
+    cp setup-nextcloud.php /var/www/html
+
+
 http://192.168.1.17/setup-nextcloud.php
 
 ![Wizard 1](wizard-1.png)
