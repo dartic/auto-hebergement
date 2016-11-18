@@ -2,14 +2,10 @@
 
 ## L'ajout d'application via le bouton '+ Applications'
 
+- accès à un ensemble d'applications 'certifiées'
+- installation de calendrier
+- installation de contacts
 
-
-- calendrier
-- contacts
-    + calendrier 
-    + contacts
-    + mail
-    + ?
 
 Et la découverte de leur fonctionnement, via le web,
 ou via une app Android qui permet de câbler son calendrier,
