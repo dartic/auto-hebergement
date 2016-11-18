@@ -10,10 +10,13 @@ Pour cela, on va suivre l'install par
 
     curl https://download.nextcloud.com/server/installer/setup-nextcloud.php > setup-nextcloud.php
     sudo cp setup-nextcloud.php /var/www/html
+    
+On utilise ici `sudo` qui nous permet de copier le fichier dans `/var/www/html`
+en tant que superutilisateur.
 
-On va le copier dans le répertoire /var/www, mais erreur de droits...
+En effet, le répertoire `/var/www/html` a été créé par l'utilisateur `root` 
+et ne peut pas être écrit directement par un utilisateur 'lambda'.
 
-![](nextcloud-download-1.png)
 
 Lorsque l'installation 
 
