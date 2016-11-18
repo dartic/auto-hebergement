@@ -10,17 +10,17 @@
 - upload d'images
 - visualisation de la galerie
 
-## La customisation du thème
-- changement de la couleur du fond
-- changement de la couleur d'écriture
-- ajout d'un logo
-
-## Le partage de fichiers
+## Le partage de fichiers
 
 - auprès du grand public
 - auprès d'une personne en particulier
 - avec protection par mdp
 - et expiration
+
+## La customisation du thème
+- changement de la couleur du fond
+- changement de la couleur d'écriture
+- ajout d'un logo
 
 ## La création de nouveaux utilisateurs
 
