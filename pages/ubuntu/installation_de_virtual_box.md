@@ -6,6 +6,13 @@ Tu y trouveras toute les ressources pour installer Virtual Box.
 
 Attention, pensez à bien choisir votre paquet pour votre distrib Linux !
 
-## Création de la VM Ubuntu Server
+Voici les étapes à réaliser pour construire la VM 
 
-A partir du menu 'Nouvelle' ou 'Machine > Nouvelle',
+![](./wizard-1.png)
+![](./wizard-2.png)
+![](./wizard-3.png)
+![](./wizard-4.png)
+![](./wizard-5.png)
+![](./wizard-6.png)
+![](./wizard-7.png)
+![](./wizard-8.png)
