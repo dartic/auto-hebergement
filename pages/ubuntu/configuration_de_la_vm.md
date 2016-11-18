@@ -6,9 +6,10 @@ On ne peut pas encore accéder à la VM depuis notre navigateur.
 
 Si on fait un `ifconfig` en ligne de commande sur la VM, 
 
+![](ifconfig.png)
 
-que l'on prend l'IP en 10.x.x.x, 
-et qu'on la rentre sur un navigateur en http://10.x.x.x, aucune réponse.
+que l'on prend l'IP en 10.0.2.15, 
+et qu'on la rentre sur un navigateur en http://10.0.2.15, aucune réponse.
 
 Idem pour le ping.
 
