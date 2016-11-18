@@ -9,7 +9,7 @@
 * [Nextcloud](pages/nextcloud/installation.md)
    * [Présentation](pages/nextcloud/presentation.md)
    * [Découverte](pages/nextcloud/decouverte.md)
-   * Installation d'applications
+   * [Installation d'applications](pages/nextcloud/installation_dapplications.md)
    * La synchronisation
 * [Et après ?](pages/et_apres.md)
 
