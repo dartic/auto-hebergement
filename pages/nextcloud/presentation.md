@@ -6,13 +6,14 @@ et est une solution d'hébergement privé de données, fichiers ou autre.
 C'est un projet très récent, Juin 2016, 
 qui est un fork de ownCloud (projet commencé en 2011).
 
-Frank KARLITSCHEK est le co-fondateur du projet ownCloud, 
-c'est aussi lui qui a quitté la société américaine ownCloud
+Frank KARLITSCHEK est le fondateur du projet ownCloud, 
+c'est aussi lui qui a quitté la société ownCloud Inc.
 et créé le fork Nextcloud.
 
 En partant de ownCloud, 
 plusieurs collaborateurs l'ont suivi dans son projet.
 
+ownCloud reste maintenu par la société allemenade ownCloud S
 
 Malgré son jeune âge, il dispose de tout le background d'ownCloud,
 et la communauté a progressé très rapidement 
