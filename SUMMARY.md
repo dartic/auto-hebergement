@@ -10,7 +10,7 @@
    * [Installation de Ubuntu Server](pages/ubuntu/installation_de_ubuntu_server.md)
    * [Configuration de la VM](pages/ubuntu/configuration_de_la_vm.md)
    * [Détails d'architecture](pages/ubuntu/architecture.md)
-* [Nextcloud](pages/nextcloud/installation.md)
+* [Nextcloud](pages/nextcloud/README.md)
    * [Présentation](pages/nextcloud/presentation.md)
    * Installation
    * [Découverte](pages/nextcloud/decouverte.md)
