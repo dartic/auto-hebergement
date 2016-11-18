@@ -4,6 +4,9 @@
 fork du projet [ownCloud](http://owncloud.org/).
 
 (https://en.wikipedia.org/wiki/Nextcloud)
+    + histoire du projet ownCloud
+    + état de l'outil
+    + pourquoi l'avoir choisi ?
 
 ## Quelques références de l'histoire owncloud > nextcloud
 
