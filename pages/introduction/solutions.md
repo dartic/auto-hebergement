@@ -13,3 +13,4 @@ Il n'y a pas de restriction !
 | ownCloud | Hébergement de fichiers | http://owncloud.org |
 | Nextcloud | Hébergement de fichiers | http://nextcloud.com |
 | Cozy | Hébergement de fichiers | http://cozy.io |
+| GitLab | Versioning de code source | http://gitlab.org |
