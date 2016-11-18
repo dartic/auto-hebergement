@@ -12,5 +12,5 @@
    * [Installation d'applications](pages/nextcloud/installation_dapplications.md)
    * [La synchronisation](pages/nextcloud/synchronisation.md)
 * [Et après ?](pages/et_apres.md)
-* Déroulé de l'atelier
+* [Déroulé de l'atelier](programme.md)
 
