@@ -1,19 +1,5 @@
 # Quelques précisions
 
-A l'heure ou nos amis du GAFA absorbent allègrement nos données personnelles, 
-
-Mais aussi où les logiciels libres arrivent à maturité sur certaines problématiques, 
-
-Nous avons aujourd'hui le choix de continuer l'utilisation de services gratuits, 
-
-mais peu respectueux de notre vie privée, 
-
-Ou d'essayer à maîtriser, 
-
-mettre en place les outils existant pour redevenir maître de nos données... 
-
-Du moins, un peu plus...
-
 L'auto-hébergement répond à plusieurs problématiques,
 dont celle de reprendre la maîtrise de ses données : mail, fichiers, autres.
 
