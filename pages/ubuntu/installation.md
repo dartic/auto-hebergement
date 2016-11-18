@@ -17,5 +17,3 @@ La VM sera installée à partir de l'ISO d'Ubuntu Server accessible ici :
 Virtual Box peut être télécharger par ici :
 
 <https://www.virtualbox.org/wiki/Downloads>
-
-j'ai procédé pour te fournir la VM Ubuntu Server.
