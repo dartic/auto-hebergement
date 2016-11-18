@@ -2,6 +2,9 @@
 
 ## L'interface graphique,
 
+- menu applicatif en haut à gauche
+- menu utilisateur en haut à droite
+- partie centrale = visualisation des fichiers, interactions principales
 
 
 ## Le fonctionnement de l'explorateur de fichier
