@@ -18,6 +18,6 @@ Il n'y a pas de restriction !
 | OBM | Serveur messagerie | https://www.linagora.com/obm |
 | Bluemind | Serveur messagerie | https://www.bluemind.net/ |
 | Yunohost | Serveur multi-services | http://yunohost.org/ |
-| La brique inter | Brique multi-services |  https://labriqueinter.net/ |
+| La brique inter | Serveur multi-services |  https://labriqueinter.net/ |
 
 Et un petit tour chez https://framasoft.org/ vous donnera plein d'idées !
