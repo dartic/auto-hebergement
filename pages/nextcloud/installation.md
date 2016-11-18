@@ -20,7 +20,9 @@ et ne peut pas être écrit directement par un utilisateur 'lambda'.
 
 ## Procédure d'installation
 
-http://192.168.1.17/setup-nextcloud.php
+Nous pouvons maintenant accéder à l'URL d'installation, dans mon cas ce sera :
+
+http://192.168.1.18/setup-nextcloud.php
 
 ![Wizard 1](wizard-1.png)
 ![Wizard 2](wizard-2.png)
