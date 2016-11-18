@@ -26,7 +26,8 @@ A travers le panneau d'administration :
 - et expiration
 
 ## La customisation du thème
+
+- - changement des textes d'accueil
 - changement de la couleur du fond
-- changement de la couleur d'écriture
 - ajout d'un logo
 - ajout d'une image de fond pour la page de login
