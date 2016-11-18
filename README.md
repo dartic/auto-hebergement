@@ -37,8 +37,6 @@ n'hésites pas !
 - ou mieux, propose une Pull Request sur <https://github.com/dartic/auto-hebergement/pulls>
 
 
-
-
 ## Work in progress
 
 Ce guide est en cours d'écriture, pour être 'lisible' et 'utilisable'
