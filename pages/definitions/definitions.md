@@ -1,4 +1,4 @@
-# Définitions
+# Quelques précisions
 
 Avant de rentrer dans le vif du sujet, 
 précisons quelques termes pour mieux définir ce qu'est réellement l'auto-hébergement.
