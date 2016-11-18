@@ -1,5 +1,9 @@
 # Déroulé de l'atelier
 
+Cet atelier va nous permettre de découvrir le fonctionnement
+de la solution d'hébergement privé Nextcloud.
+
+
 - [quelques définitions](pages/definitions/definitions.md)
 - [installation d'une VM Ubuntu Server (déjà fournie)](pages/ubuntu/installation.md)
 - [installation de Nextcloud](pages/nextcloud/installation.md)
