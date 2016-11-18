@@ -64,7 +64,6 @@ Dans notre cas, on choisit de l'installer dans le répertoire courant.
 
 Il pourrait être utile de le mettre dans un sous répertoire néanmoins.
 
-![Wizard 4](wizard-4.png)
 ![Wizard 5](wizard-5.png)
 
 ![Wizard 6.1](wizard-6.1.png)
