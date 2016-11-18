@@ -35,7 +35,19 @@ Nous rencontrons un problème de droit utilisateur...
 
 ![](nextcloud-dependency-fail.png)
 
+Pour corriger ce problème, 
+nous devons comprendre que le serveur HTTP Apache ne dispose pas 
+de droits suffisants pour écrire dans son répertoire `/var/www/html`.
+
+Le serveur HTTP Apache utilise l'utilisateur `www-data` 
+pour écrire dans le répertoire `/var/www/html` .
+
+Si nous regardons à qui appartient ce répertoire
+
+
 ![Wizard 3](wizard-3.png)
+
+
 
 Dans notre cas, on choisit de l'installer dans le répertoire courant.
 
