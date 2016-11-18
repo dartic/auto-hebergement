@@ -6,6 +6,10 @@
 
 - calendrier
 - contacts
+    + calendrier 
+    + contacts
+    + mail
+    + ?
 
 Et la découverte de leur fonctionnement, via le web,
 ou via une app Android qui permet de câbler son calendrier,
