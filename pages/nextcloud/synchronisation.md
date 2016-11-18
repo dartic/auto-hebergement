@@ -1,2 +1,24 @@
 # La synchronisation
 
+
+## Desktop
+
+Pas de client nextcloud, mais celui d'owncoud fonctionne.
+
+https://owncloud.com/download#desktop-clients
+
+https://software.opensuse.org/download/package?project=isv:ownCloud:desktop&package=owncloud-client
+
+
+
+Webdav,
+
+https://docs.nextcloud.com/server/10/user_manual/files/access_webdav.html#nextcloud-desktop-and-mobile-clients 
+
+https://docs.nextcloud.com/server/10/user_manual/files/access_webdav.html#accessing-files-using-microsoft-windows
+
+Application sur smartphone
+
+CardDav, CalDav
+
+
