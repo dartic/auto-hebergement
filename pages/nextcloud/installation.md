@@ -9,11 +9,13 @@ Pour cela, on va suivre l'install par
 ## Téléchargement de nextcloud depuis la VM
 
     curl https://download.nextcloud.com/server/installer/setup-nextcloud.php > setup-nextcloud.php
-    cp setup-nextcloud.php /var/www/html
+    sudo cp setup-nextcloud.php /var/www/html
 
 On va le copier dans le répertoire /var/www, mais erreur de droits...
 
 ![](nextcloud-download-1.png)
+
+Lorsque l'installation 
 
 On va changer les droits du répertoire (propriétaire et groupe).
 
