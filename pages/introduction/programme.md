@@ -15,10 +15,14 @@ on passe à [l'installation de Nextcloud](pages/nextcloud/installation.md).
 Ca va durer un peu, histoire de présenter l'outil,
 les différentes applications de l'écosystème Nextcloud.
 
-    + calendrier 
-    + contacts
-    + mail
-    + ?
+Une fois l'installation et la découverte terminée, 
+on prendra un peu de temps pour échanger sur le sujet, 
+et je vous donnerai d'autres perspectives pour l'auto-hébergement.
+
+Voilà !...
+
+Yapluka !
+
 - et pour finir...
     + le reste, le serveur de mails
     + les annuaires
