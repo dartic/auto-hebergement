@@ -8,4 +8,5 @@ Il n'y a pas de restriction !
 
 | Solution | Domaine | Site web |
 | -- | -- | -- |
-| 0:2 | 1:2 | 2:2 |
+| ownCloud | Hébergement de fichiers | http://owncloud.org |
+| Nextcloud | Hébergement de fichiers | http://nextcloud.com |
