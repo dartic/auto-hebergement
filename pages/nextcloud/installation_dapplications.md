@@ -14,6 +14,18 @@ Grâce à Easy DAV for ownCloud (à télécharger).
 > Démo de synchronisation d'événement du calendrier, 
 > Peut être à voir aussi avec un agenda 'public' où les gens pourraient en direct mettre des events.
 
+
+## L'ajout de stockage externe
+
+Via l'application 
+
+https://docs.nextcloud.com/server/10/admin_manual/configuration_files/external_storage_configuration_gui.html
+
+Attention, si synchronisation avec des applications desktop / mobile,
+penser à ne pa synchroniser ces dossiers là.
+
+
+
 ### via les applications expérimentales 
 
 Store d'application :
