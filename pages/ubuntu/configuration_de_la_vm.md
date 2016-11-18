@@ -26,6 +26,9 @@ On devrait avoir une IP de la sorte désormais :
 
 ![](ifconfig-2.png)
 
+Si désormais on va sur la page `http://192.168.1.18`, on obtient 
+
+![](apache-default-page.png)
 
 
 ## Sécurisation du serveur Apache
