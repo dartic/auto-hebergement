@@ -44,6 +44,17 @@ pour écrire dans le répertoire `/var/www/html` .
 
 Si nous regardons à qui appartient ce répertoire
 
+    ls -l /var/www
+    
+![](ls-l-var-www.png)
+
+Il appartient à `root`, le super utilisateur de la VM.
+
+Nous allons réattribuer ce répertoire de travail à l'utilisateur `www-data` :
+
+    sudo chown -R www-data /var/www/html
+
+
 
 ![Wizard 3](wizard-3.png)
 
