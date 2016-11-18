@@ -5,9 +5,11 @@ précisons quelques termes pour mieux définir ce qu'est réellement l'auto-héb
 
 Auto-Hébergement, ce mot se compose de Auto et Hébergement.
 
-Voici les définitions issues de Wikipedia.
+Voici quelques définitions pour que nous ayons un socle identique.
 
-## Auto => Autonomie
+## Quelques définitions
+
+### Auto => Autonomie
 
 > L'autonomie désigne la capacité d'un objet, 
 > individu ou système à se gouverner soi-même, 
@@ -15,7 +17,7 @@ Voici les définitions issues de Wikipedia.
 
 Wikipedia, <https://fr.wikipedia.org/wiki/Autonomie>
 
-## Hébergement = Hébergement web
+### Hébergement = Hébergement web
 
 > Un hébergeur web (ou hébergeur internet) est 
 > une entité ayant pour vocation 
@@ -24,7 +26,7 @@ Wikipedia, <https://fr.wikipedia.org/wiki/Autonomie>
 
 Wikipedia, <https://fr.wikipedia.org/wiki/H%C3%A9bergeur_web>
 
-## Auto-hébergement
+### Auto-hébergement
 
 > L'auto-hébergement est une pratique 
 > consistant à héberger ses services Internet personnels 
@@ -34,7 +36,7 @@ Wikipedia, <https://fr.wikipedia.org/wiki/H%C3%A9bergeur_web>
 
 Wikipedia, <https://fr.wikipedia.org/wiki/Auto-h%C3%A9bergement_(Internet)>
 
-## Cloud
+### Cloud
 
 > Le cloud computing, 
 > ou l’informatique en nuage ou nuagique ou encore l’infonuagique (au Québec), 
