@@ -15,7 +15,7 @@ Il n'y a pas de restriction !
 | Cozy | Hébergement de fichiers | http://cozy.io |
 | GitLab | Versioning de code source | http://gitlab.com |
 | iRedMail | Serveur messagerie | http://www.iredmail.org/ |
-| OBM | | https://www.linagora.com/obm |
-| Bluemind | | https://www.bluemind.net/ |
+| OBM | Serveur messagerie | https://www.linagora.com/obm |
+| Bluemind | Serveur messagerie | https://www.bluemind.net/ |
 
 Et un petit tour chez https://framasoft.org/ vous donnera plein d'idées !
