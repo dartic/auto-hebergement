@@ -8,3 +8,4 @@ Attention, pensez à bien choisir votre paquet pour votre distrib Linux !
 
 ## Création de la VM Ubuntu Server
 
+A partir du menu 'Nouvelle' ou 'Machine > Nouvelle',
