@@ -53,6 +53,8 @@ Il appartient à `root`, le super utilisateur de la VM.
 Nous allons réattribuer ce répertoire de travail à l'utilisateur `www-data` :
 
     sudo chown -R www-data /var/www/html
+    
+Puis, nous pouvons rafraîchir la page :
 
 
 
