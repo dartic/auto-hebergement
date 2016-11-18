@@ -8,7 +8,7 @@ Si on fait un ifconfig sur la VM, que l'on prend l'IP en 10.x.x.x,
 et qu'on la rentre sur un navigateur, aucune réponse.
 Idem pour le ping.
 
-C'est normal, nous devons configurer l'accès réseau de la VM.
+Nous devons configurer l'accès réseau de la VM.
 
 - configuration de la carte réseau en bridge / pont
 <http://askubuntu.com/questions/237461/how-do-i-access-ubuntu-server-running-in-virtualbox-from-outside#237467>
