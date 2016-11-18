@@ -13,6 +13,25 @@ N'hésitez pas à suivre leurs projets GitHub et y contribuer !
 
 ## Sécurisation du serveur Apache
 
+Dans le cas où l'on met le serveur accessible sur le web, 
+il sera indispensable de générer un certificat de sécurité 
+certifié par une autorité de certification.
+Cela permet de garantir que l'échange de données effectué
+entre le navigateur web, les applications de synchronisation, 
+et le serveur sont est sécurisé.
+
+Il existe une autorité de certification automatisée,
+qui a été initialement propulsé par Mozilla. 
+Il s'agit de Let's Encrypt.
+
+https://letsencrypt.org/
+
+Un bot a été écrit, 
+et est facilement installable pour chaque distribution.
+Le bot se chargera de générer le certificat, 
+adapter la configuration du serveur HTTP (Apache dans notre cas)
+et renouveler automatiquement le certificat.
+
 https://certbot.eff.org/
 
 ## Installation serveur mail
