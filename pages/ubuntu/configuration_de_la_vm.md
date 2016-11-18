@@ -19,6 +19,9 @@ Nous devons configurer l'accès réseau de la VM en `Accès par pont`.
 
 ![Network as a bridge](virtual-box-reseau-bridge.png)
 
+Puis redémarrer la VM pour que la machine prenne bien en considération 
+les modifications sur la carte réseau.
+
 ## Sécurisation du serveur Apache
 
 https://certbot.eff.org/
