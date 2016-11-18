@@ -21,4 +21,10 @@ Application sur smartphone
 
 CardDav, CalDav
 
+## L'application mobile Nextcloud
+
+Téléchargement, configuration
+
+Ajout automatique des photos par exemple
+
 
