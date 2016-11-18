@@ -8,7 +8,7 @@ de la solution d'hébergement privé Nextcloud.
 - [installation d'une VM Ubuntu Server (déjà fournie)](pages/ubuntu/installation.md)
 - [installation de Nextcloud](pages/nextcloud/installation.md)
   - présentation de Nextcloud
-    + histoire du projet Owncloud
+    + histoire du projet ownCloud
     + état de l'outil
     + pourquoi l'avoir choisi ?
   - installation de Nextcloud
