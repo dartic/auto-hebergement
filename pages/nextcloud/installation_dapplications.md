@@ -36,7 +36,8 @@ On va se placer dans ce répertoire, et on va se mettre en super utilisateur :
 Puis on va regarder ce store d'applications non certifiées :
 https://apps.nextcloud.com/
 
-- installation de news, lecteur RSS
+### installation de news, lecteur RSS
+
   - https://apps.nextcloud.com/apps/news
     - `curl -L https://github.com/nextcloud/news/releases/download/9.0.4/news.tar.gz > news.tar.gz`
     - `gunzip news.tar.gz`
