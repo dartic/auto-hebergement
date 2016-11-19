@@ -57,6 +57,7 @@ https://apps.nextcloud.com/
 
 ### 2) installation de apporder, outil pour réorganiser l'ordre des apps
   - https://apps.nextcloud.com/apps/apporder
+  - Fichier à récupérer : https://github.com/nextcloud/news/releases/download/9.0.4
   - y accéder à partir du menu
 
 ### 3) installation d'un lecteur audio
