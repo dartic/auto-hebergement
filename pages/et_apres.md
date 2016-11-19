@@ -97,7 +97,7 @@ Mais son installation méritera quelques petites pages de ce guide...
 S'il y a des amateurs... qu'ils se manifestent !
 
 
-# Merci pour votre attention
+# Merci pour votre attention !
 
 Allez... c'est tout pour le moment....
 
