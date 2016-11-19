@@ -1,6 +1,6 @@
 # Installation d'applications
 
-## L'ajout d'application via le bouton '+ Applications'
+## via le bouton '+ Applications'
 
 - accès à un ensemble d'applications 'certifiées'
 - installation de calendrier
@@ -27,7 +27,7 @@ penser à ne pa synchroniser ces dossiers là.
 
 
 
-### via les applications expérimentales 
+## via les applications expérimentales 
 
 Store d'application :
 https://apps.nextcloud.com/
