@@ -6,7 +6,6 @@
 - installation de calendrier
 - installation de contacts
 - installation de stockage externe (External storage support)
-- installation de solution de backup (ownBackup)
 
 Et la découverte de leur fonctionnement, via le web,
 ou via une app Android qui permet de câbler son calendrier,
@@ -14,18 +13,6 @@ Grâce à Easy DAV for ownCloud (à télécharger).
 
 > Démo de synchronisation d'événement du calendrier, 
 > Peut être à voir aussi avec un agenda 'public' où les gens pourraient en direct mettre des events.
-
-
-## L'ajout de stockage externe
-
-Via l'application 
-
-https://docs.nextcloud.com/server/10/admin_manual/configuration_files/external_storage_configuration_gui.html
-
-Attention, si synchronisation avec des applications desktop / mobile,
-penser à ne pa synchroniser ces dossiers là.
-
-
 
 ## via les applications expérimentales 
 
@@ -71,3 +58,15 @@ https://apps.nextcloud.com/apps/ocsms
 
 https://apps.nextcloud.com/apps/spreedme
 Permet de faire de la vidéo conf, nécessite d'avoir un serveur installé sur la machine.
+
+## L'ajout de stockage externe
+
+Via l'application 
+
+https://docs.nextcloud.com/server/10/admin_manual/configuration_files/external_storage_configuration_gui.html
+
+Attention, si synchronisation avec des applications desktop / mobile,
+penser à ne pa synchroniser ces dossiers là.
+
+
+
