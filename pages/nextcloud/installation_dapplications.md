@@ -19,6 +19,10 @@ Accès au store d'applications 'certifiées'
 
 ## via les applications expérimentales 
 
+Les applications expérimentales sont plus difficiles d'accès.
+
+Mais ce n'est pas mission impossible !
+
 Accès au store d'application non certifiées :
 https://apps.nextcloud.com/
 
