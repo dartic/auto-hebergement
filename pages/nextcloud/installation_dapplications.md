@@ -33,6 +33,13 @@ On va se placer dans ce répertoire, et on va se mettre en super utilisateur :
     cd /var/www/html/apps
     sudo su
 
+Pour chaque application à installer, nous devons respecter cet ordre là :
+
+  - d'abord on récupère les sources de l'application
+  - puis on dézipe
+  - on extrait l'archive
+  - on va dans le menu d'ajout d'application pour activer l'application
+
 Puis on va regarder ce store d'applications non certifiées :
 https://apps.nextcloud.com/
 
