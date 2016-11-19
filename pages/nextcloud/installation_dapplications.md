@@ -87,7 +87,7 @@ https://apps.nextcloud.com/
   - permet de se connecter à son propre serveur mail
   - mémorise les informations de connexion
   - app pas encore assez aboutie (on ne peut pas trier ses mails, créer des dossiers)
-  - mais câblée aux contacts.
+  - mais câblée aux contacts, et assez élégante
 
 ### 6) installer un système de visio conférence
 
