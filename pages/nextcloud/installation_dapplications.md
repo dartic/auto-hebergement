@@ -36,8 +36,7 @@ https://apps.nextcloud.com/
 - installation d'un lecteur audio
   - https://apps.nextcloud.com/apps/audioplayer
   - ajouter des fichiers audio... échecs car limite de 2Mo...
-  - => configurer PHP
-    - `ssh user@192.168.1.18` + mdp `capitoledulibre`
+  - => configurer PHP 
     - `sudo nano /etc/php/7.0/apache2/php.ini`
     - Rechercher avec Ctrl + W 'upload_max_filesize'
     - mettre à jour `2M` => `100M`
