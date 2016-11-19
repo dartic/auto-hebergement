@@ -53,10 +53,10 @@ https://apps.nextcloud.com/
   - mémorise les informations de connexion
   - app pas encore assez aboutie (on ne peut pas trier ses mails, créer des dossiers)
   - mais câblée aux contacts.
-
-
-https://apps.nextcloud.com/apps/spreedme
-Permet de faire de la vidéo conf, nécessite d'avoir un serveur installé sur la machine.
+- installer un système de visio conférence
+  - https://apps.nextcloud.com/apps/spreedme
+  - permet de faire de la vidéo conf
+  - nécessite d'avoir un serveur installé sur la machine.
 
 ## L'ajout de stockage externe
 
