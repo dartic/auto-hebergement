@@ -68,7 +68,7 @@ Puis, nous pouvons rafraîchir la page :
 
 ![Wizard 3](wizard-3.png)
 
-Dans notre cas, on choisit de l'installer dans le répertoire courant.
+Dans notre cas, on choisi de l'installer dans le répertoire courant.
 
 Il pourrait être utile de le mettre dans un sous répertoire néanmoins.
 
@@ -80,5 +80,5 @@ Il pourrait être utile de le mettre dans un sous répertoire néanmoins.
 
 Et voilà !
 
-Nous avons terminé l'installation basique de Nextcloud !
+Nous avons terminé l'installation de Nextcloud !
 
