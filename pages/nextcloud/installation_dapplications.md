@@ -45,8 +45,8 @@ https://apps.nextcloud.com/
     - mettre à jour `8M` => `100M`
     - `post_max_size = 100M`
     - `sudo service apache2 restart`
-  
-https://apps.nextcloud.com/apps/direct_menu
+- installer direct menu, qui permet d'avoir une barre supérieure d'accès aux apps
+  - https://apps.nextcloud.com/apps/direct_menu
 
 Améliore l'accessibilité des apps
 
