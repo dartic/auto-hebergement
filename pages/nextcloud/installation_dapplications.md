@@ -91,7 +91,8 @@ https://apps.nextcloud.com/
 
 ### 6) installer un système de visio conférence
 
-  -   - https://apps.nextcloud.com/apps/spreedme
+  - https://apps.nextcloud.com/apps/spreedme
+  - Fichier à récupérer : https://apps.owncloud.com/CONTENT/content-files/174436-spreedme.tar.gz
   - permet de faire de la vidéo conf
   - nécessite d'avoir un serveur spreedme-server installé sur la machine
   - https://github.com/strukturag/spreed-webrtc
