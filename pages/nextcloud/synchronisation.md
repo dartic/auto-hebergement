@@ -12,7 +12,9 @@ On a ainsi accès à des outils de synchronisation au niveau :
 - smartphone / tablettes
   - pour les fichiers, avec le protocole WebDAV
     - c'est l'application Nextcloud
-    - à télécharger https://play.google.com/store/apps/details?id=com.nextcloud.client
+    - à télécharger 
+      - par ici https://play.google.com/store/apps/details?id=com.nextcloud.client
+      - ou par là https://apkpure.com/nextcloud/com.nextcloud.client
 
 
 https://software.opensuse.org/download/package?project=isv:ownCloud:desktop&package=owncloud-client
