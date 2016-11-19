@@ -83,6 +83,18 @@ pour pouvoir accéder au raspberry depuis l'extérieur.
 
 ## Installation annuaire LDAP
 
+Dans la suite de l'auto-hébergement,
+plus on va aller loin dans la pieuvre de services qu'on souhaite héberger,
+plus vite il faudra intégrer un système d'authentification partagé.
+
+Ce sera le moment alors de regarder du côté de LDAP, 
+qui est un annuaire d'utiliateurs.
+
+Les solutions comme Nextcloud ou iRedMail savent communiquer facilement
+avec un annuaire LDAP.
+
+Mais son installation méritera quelques petites pages de ce guide...
+S'il y a des amateurs... qu'ils se manifestent !
 
 
 Attention cependant, il faudra bien au préalable 
