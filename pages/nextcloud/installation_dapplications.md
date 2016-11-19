@@ -50,7 +50,7 @@ https://apps.nextcloud.com/
 ### 1) installation de news, lecteur RSS
 
   - https://apps.nextcloud.com/apps/news
-  - https://github.com/nextcloud/news/releases/download/9.0.4/news.tar.gz > news.tar.gz`
+  - https://github.com/nextcloud/news/releases/download/9.0.4/news.tar.gz
   - ajouter deux nouveaux flux avec par exemple Gamekult et NextInpact
     - http://www.gamekult.com/cobranding/rss/news.xml
     - https://www.nextinpact.com/rss/news.xml
