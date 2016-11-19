@@ -21,6 +21,7 @@ N'hésitez pas à suivre leurs projets GitHub et y contribuer !
 
 ## Sécurisation du serveur Apache
 
+J'oubliais... 
 Dans le cas où l'on met le serveur accessible sur le web, 
 il sera indispensable de générer un certificat de sécurité 
 certifié par une autorité de certification.
@@ -42,8 +43,6 @@ et renouveler automatiquement le certificat.
 
 https://certbot.eff.org/
 
-## Installation annuaire LDAP
-
 ## Installation serveur mail
 
 Quelles sont les technos libres actuelles :
@@ -61,6 +60,10 @@ Il faudra alors donner une IP fixe au raspberry,
 au préalable définir la plage d'IP fixe de la box,
 puis ensuite créer une redirection de port depuis la box 
 pour pouvoir accéder au raspberry depuis l'extérieur.
+
+## Installation annuaire LDAP
+
+
 
 Attention cependant, il faudra bien au préalable 
 - définir un certificat de sécurité
