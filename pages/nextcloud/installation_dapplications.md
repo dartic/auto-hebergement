@@ -43,6 +43,9 @@ https://apps.nextcloud.com/
   - Rechercher avec Ctrl + W 'upload_max_filesize'
   - mettre à jour `2M` => `100M`
   - `upload_max_filesize = 100M`
+  - Rechercher avec Ctrl + W 'post_max_size'
+  - mettre à jour `8M` => `100M`
+  - `post_max_size = 100M`
 post_max_size = 100M
     
     sudo service apache2 restart
