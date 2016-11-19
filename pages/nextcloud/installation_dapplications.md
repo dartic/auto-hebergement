@@ -62,6 +62,7 @@ https://apps.nextcloud.com/
 
 ### 3) installation d'un lecteur audio
   - https://apps.nextcloud.com/apps/audioplayer
+  - Fichier à récupérer : https://github.com/juliushaertl/apporder/releases/download/0.3.3/apporder.tar.gz
   - ajouter des fichiers audio... échecs car limite de 2Mo...
   - => configurer PHP 
     - `sudo nano /etc/php/7.0/apache2/php.ini`
