@@ -72,7 +72,9 @@ des solutions intéressantes.
 
 Bien sûr !
 
-Avec un petit raspberry, ça peut se faire facilement.
+Tant qu'il n'y a pas de fonctionnalité critique !
+
+Ou alors, il faut assumer les risques.
 
 Il faudra alors donner une IP fixe au raspberry, 
 au préalable définir la plage d'IP fixe de la box,
