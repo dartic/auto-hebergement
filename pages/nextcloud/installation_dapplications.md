@@ -47,13 +47,12 @@ https://apps.nextcloud.com/
     - `sudo service apache2 restart`
 - installer direct menu, qui permet d'avoir une barre supérieure d'accès aux apps
   - https://apps.nextcloud.com/apps/direct_menu
-
-Améliore l'accessibilité des apps
-
-https://apps.nextcloud.com/apps/mail
-Permet de se connecter à son propre serveur mail.
-App pas encore assez aboutie (on peut pas par exemple créer des dossiers)
-Mais câblé aux contacts.
+- installer un lecteur de mail
+  - https://apps.nextcloud.com/apps/mail
+  - permet de se connecter à son propre serveur mail
+  - mémorise les informations de connexion
+  - app pas encore assez aboutie (on ne peut pas trier ses mails, créer des dossiers)
+  - mais câblée aux contacts.
 
 https://apps.nextcloud.com/apps/ocsms
 
