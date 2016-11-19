@@ -56,7 +56,8 @@ https://apps.nextcloud.com/
 - installer un système de visio conférence
   - https://apps.nextcloud.com/apps/spreedme
   - permet de faire de la vidéo conf
-  - nécessite d'avoir un serveur installé sur la machine.
+  - nécessite d'avoir un serveur spreedme-server installé sur la machine
+  - https://github.com/strukturag/spreed-webrtc
 
 ## L'ajout de stockage externe
 
