@@ -69,5 +69,7 @@ https://docs.nextcloud.com/server/10/admin_manual/configuration_files/external_s
 Attention, si synchronisation avec des applications desktop / mobile,
 penser à ne pa synchroniser ces dossiers là.
 
+## fonctionnement des applications
+
 
 
