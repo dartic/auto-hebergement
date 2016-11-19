@@ -37,3 +37,10 @@ Grâce à Easy DAV for ownCloud (à télécharger).
 
 > Démo de synchronisation d'événement du calendrier, 
 > Peut être à voir aussi avec un agenda 'public' où les gens pourraient en direct mettre des events.
+
+## stockage externe
+
+
+Attention, si synchronisation avec des applications desktop / mobile,
+penser à ne pa synchroniser ces dossiers là.
+
