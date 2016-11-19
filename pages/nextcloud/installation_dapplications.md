@@ -5,15 +5,18 @@
 Accès au store d'applications 'certifiées'
 
 - installation de calendrier
+  - créer un nouvel événement
 - installation de contacts
+  - créer un nouveau contact
 - installation de stockage externe (External storage support)
+  - ajouter un stockage externe depuis l'administration globale
 
 ## via les applications expérimentales 
 
 Accès au store d'application non certifiées :
 https://apps.nextcloud.com/
 
-Par exemple, on peut télécharger celles ci :
+- installation de news, lecteur RSS
 
 https://apps.nextcloud.com/apps/news
 
