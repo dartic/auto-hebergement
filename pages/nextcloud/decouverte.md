@@ -18,8 +18,8 @@
 
 A travers le panneau d'administration :
 
-- ajout d'un nouvel utilisateur
-- ajout d'un nouveau groupe
+- ajout d'un nouvel utilisateur 'demo/demo'
+- ajout d'un nouveau groupe 
 - ajout d'un utilisateur à un ou plusieurs groupes
 
 ## Le partage de fichiers
