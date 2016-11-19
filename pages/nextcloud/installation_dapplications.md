@@ -36,8 +36,11 @@ On va se placer dans ce répertoire, et on va se mettre en super utilisateur :
 Pour chaque application à installer, nous devons respecter cet ordre là :
 
   - d'abord on récupère les sources de l'application
+    - `curl -L https://github.com/nextcloud/APP/releases/download/VERSION/APP.tar.gz > APP.tar.gz`
   - puis on dézipe
+    - `gunzip APP.tar.gz`
   - on extrait l'archive
+    - `tar -xf APP.tar APP`
   - on va dans le menu d'ajout d'application pour activer l'application
 
 Puis on va regarder ce store d'applications non certifiées :
