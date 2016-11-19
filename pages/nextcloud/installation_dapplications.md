@@ -68,6 +68,7 @@ https://apps.nextcloud.com/
 ### 4) installer direct menu, qui permet d'avoir une barre supérieure d'accès aux apps
 
   - https://apps.nextcloud.com/apps/direct_menu
+  - s'affiche quand largeur d'écran suffisante, sinon menu classique
 
 ### 5) installer un lecteur de mail
 
