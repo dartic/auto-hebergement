@@ -11,10 +11,10 @@ quelles sont les solutions d'hébergement à suivre de près...
 Bien sûr, Nextcloud est à suivre, mais, 
 je vous conseille de regarder aussi cozy.io .
 
-Jeune pousse, avec Tristan Nitot qui a rejoint la troupe récemment,
-ce projet semble en très belle progression. 
-De nombreuses apps semblent se mettre en place, 
-et la qualité semble au rendez-vous.
+Né fin 2012, cozy.io est un développement français,
+qui propose un système d'hébergement privé similaire à Nextcloud.
+Ce projet semble bien progresser en ce moment, et, fait marquant, 
+Tristan Nitot a rejoint la troupe récemment en tant que CPO.
 
 N'hésitez pas à suivre leurs projets GitHub et y contribuer !
 
