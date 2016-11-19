@@ -41,12 +41,8 @@ https://apps.nextcloud.com/
   - `ssh user@192.168.1.18` + mdp `capitoledulibre`
   - `sudo nano /etc/php/7.0/apache2/php.ini`
   - Rechercher avec Ctrl + W 'upload_max_filesize'
-  - mettre à jour `2Mo` => `100Mo`
-Connexion SSH => 
-
-    sudo 
-=> File upload => 100Mo
-upload_max_filesize = 100M
+  - mettre à jour `2M` => `100M`
+  - `upload_max_filesize = 100M`
 post_max_size = 100M
     
     sudo service apache2 restart
