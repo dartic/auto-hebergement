@@ -82,3 +82,4 @@ Et voilà !
 
 Nous avons terminé l'installation de Nextcloud !
 
+C'était pas si dur si ?
