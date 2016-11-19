@@ -60,7 +60,3 @@ https://apps.nextcloud.com/
   - nécessite d'avoir un serveur spreedme-server installé sur la machine
   - https://github.com/strukturag/spreed-webrtc
 
-
-Attention, si synchronisation avec des applications desktop / mobile,
-penser à ne pa synchroniser ces dossiers là.
-
