@@ -1,17 +1,23 @@
 # La synchronisation
 
+La solution d'hébergement privé Nextcloud est 'batteries included'.
 
-## Desktop
+On a ainsi accès à des outils de synchronisation au niveau :
 
-Pas de client nextcloud, mais celui d'owncoud fonctionne.
+- desktop
+  - pour les fichiers, avec le protocole WebDAV
+  - il s'agit du client de synchronisation d'ownCloud
+  - https://owncloud.com/download#desktop-clients
+- smartphone / tablettes
+  - pour les fichiers, avec le protocole WebDAV
+    - c'est l'application Nextcloud
+    - 
 
-https://owncloud.com/download#desktop-clients
 
 https://software.opensuse.org/download/package?project=isv:ownCloud:desktop&package=owncloud-client
 
 
 
-Webdav,
 
 https://docs.nextcloud.com/server/10/user_manual/files/access_webdav.html#nextcloud-desktop-and-mobile-clients 
 
