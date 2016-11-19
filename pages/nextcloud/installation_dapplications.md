@@ -16,6 +16,7 @@ Accès au store d'applications 'certifiées'
     et vérifier qu'il est bien accessible depuis tous les utilisateurs
   - ajouter un stockage externe depuis l'utilisateur 'demo',
     et vérifier qu'il n'est accessible que depuis l'utilisateur 'demo'
+  - https://docs.nextcloud.com/server/10/admin_manual/configuration_files/external_storage_configuration_gui.html
 
 ## via les applications expérimentales 
 
@@ -63,7 +64,7 @@ https://apps.nextcloud.com/
 
 Via l'application 
 
-https://docs.nextcloud.com/server/10/admin_manual/configuration_files/external_storage_configuration_gui.html
+
 
 Attention, si synchronisation avec des applications desktop / mobile,
 penser à ne pa synchroniser ces dossiers là.
