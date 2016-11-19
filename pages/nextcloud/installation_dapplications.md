@@ -83,6 +83,7 @@ https://apps.nextcloud.com/
 ### 5) installer un lecteur de mail
 
   - https://apps.nextcloud.com/apps/mail
+  - Fichier à récupérer : https://github.com/nextcloud/mail/releases/download/v0.6.0/mail.tar.gz
   - permet de se connecter à son propre serveur mail
   - mémorise les informations de connexion
   - app pas encore assez aboutie (on ne peut pas trier ses mails, créer des dossiers)
