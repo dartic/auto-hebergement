@@ -28,7 +28,14 @@ http://192.168.1.18/setup-nextcloud.php
 ![Wizard 1](wizard-1.png)
 ![Wizard 2](wizard-2.png)
 
+Il nous manque quelques dépendances PHP... rien de grave ! 
+
+Installons les !
+
     sudo apt-get install php-xml php-curl php-zip php-mbstring php-gd
+
+Puis redémarrons le serveur pour que 
+les extensions installées soient prises en considération...
 
     sudo service apache2 restart
     
