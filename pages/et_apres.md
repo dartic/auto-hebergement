@@ -97,15 +97,9 @@ Mais son installation méritera quelques petites pages de ce guide...
 S'il y a des amateurs... qu'ils se manifestent !
 
 
-Attention cependant, il faudra bien au préalable 
-- définir un certificat de sécurité
-- rediriger les flux http vers https
-- définir des règles de sécurité comme un fail2ban
-- monitorer les connections pour détecter toute attaque suspecte...
-- définir ce que l'on considère comme une coupure acceptable (électrique, réseau,...) et le PRA / PCA dépendant
+# Merci pour votre attention
 
-Et ça devrait marcher correctement :-)
+Allez... c'est tout pour le moment....
 
-Quelques liens :
 
-https://yunohost.org/#/
+Vous pouvez retourner à une activité normale...
