@@ -45,6 +45,22 @@ https://certbot.eff.org/
 
 ## Installation serveur mail
 
+Les fichiers, c'est bien.
+
+Mais, le nerf de la guerre à mon sens, c'est plutôt les mails...
+
+De nombreuses solutions sont le marché, mais, 
+sur ce besoin, j'avertis à nouveau : **attention, fonctionnalité critique !!!!**
+
+Un cloud qui tombe en panne pénalise les utilisateurs, 
+mais il n'y a probablement pas ou peu de perte d'information.
+
+Quand un serveur mail tombe, s'il n'a pas de serveur de secours, 
+ou de rétention, les mails qui lui sont adressés peuvent se perdre 
+rapidement dans la nature.
+
+Là, à mon sens, clairement, on ne joue plus dans la même cour.
+
 Quelles sont les technos libres actuelles :
 - Linagora =>
 - Bluemind => solution mail / calendrier / contacts
