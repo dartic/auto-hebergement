@@ -77,12 +77,3 @@ Et ça devrait marcher correctement :-)
 Quelques liens :
 
 https://yunohost.org/#/
-
-
-- et pour finir...
-    + le reste, le serveur de mails
-    + les annuaires
-    + à la maison, comment je fais ?
-
-
-
