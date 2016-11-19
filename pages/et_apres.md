@@ -1,7 +1,15 @@
-# Et après ? 
+# Et après ?
 
-L'avenir de Nextcloud est à suivre de près, mais, 
-si vous avez un projet à suivre de près, je vous conseille cozy.io .
+Après, on lézarde... avec ce temps, dur !
+
+Après, j'aurais pas mal de choses à vous raconter, c'est sûr...
+
+Notamment que si cela vous intéresse, 
+un peu de veille ne fait pas de mal pour savoir 
+quelles sont les solutions d'hébergement à suivre de près...
+
+Bien sûr, Nextcloud est à suivre, mais, 
+je vous conseille de regarder aussi cozy.io .
 
 Jeune pousse, avec Tristan Nitot qui a rejoint la troupe récemment,
 ce projet semble en très belle progression. 
