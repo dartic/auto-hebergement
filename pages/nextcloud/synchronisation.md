@@ -22,28 +22,12 @@ On a ainsi accès à des outils de synchronisation au niveau :
     - à télécharger
       - par ici https://play.google.com/store/apps/details?id=com.bodeme.easycloud
       - ou par là https://apkpure.com/easy-dav-for-owncloud/com.bodeme.easycloud
+    - permet d'ajouter facilement les contacts ou calendrier sur son smartphone
+    - et les synchroniser entre toutes les applications !
 
+## Stockage externe
 
-https://software.opensuse.org/download/package?project=isv:ownCloud:desktop&package=owncloud-client
-
-
-
-
-https://docs.nextcloud.com/server/10/user_manual/files/access_webdav.html#nextcloud-desktop-and-mobile-clients 
-
-https://docs.nextcloud.com/server/10/user_manual/files/access_webdav.html#accessing-files-using-microsoft-windows
-
-
-Et la découverte de leur fonctionnement, via le web,
-ou via une app Android qui permet de câbler son calendrier,
-Grâce à Easy DAV for ownCloud (à télécharger).
-
-> Démo de synchronisation d'événement du calendrier, 
-> Peut être à voir aussi avec un agenda 'public' où les gens pourraient en direct mettre des events.
-
-## stockage externe
-
-
-Attention, si synchronisation avec des applications desktop / mobile,
-penser à ne pa synchroniser ces dossiers là.
+**Attention**, si tu fais de la synchronisation avec des applications desktop / mobile,
+il est préférable de ne pas synchroniser les stockages externe,
+ça pourrait grossir plutôt rapidement...
 
