@@ -32,7 +32,7 @@ On va se placer dans ce répertoire :
 
     cd /var/www/html/apps
 
-Accès au store d'application non certifiées :
+Puis on va regarder ce store d'applications non certifiées :
 https://apps.nextcloud.com/
 
 - installation de news, lecteur RSS
