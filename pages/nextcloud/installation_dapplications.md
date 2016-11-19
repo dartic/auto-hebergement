@@ -58,12 +58,6 @@ https://apps.nextcloud.com/
 https://apps.nextcloud.com/apps/spreedme
 Permet de faire de la vidéo conf, nécessite d'avoir un serveur installé sur la machine.
 
-Et la découverte de leur fonctionnement, via le web,
-ou via une app Android qui permet de câbler son calendrier,
-Grâce à Easy DAV for ownCloud (à télécharger).
-
-> Démo de synchronisation d'événement du calendrier, 
-> Peut être à voir aussi avec un agenda 'public' où les gens pourraient en direct mettre des events.
 ## L'ajout de stockage externe
 
 Via l'application 
