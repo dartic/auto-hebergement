@@ -8,6 +8,7 @@ On a ainsi accès à des outils de synchronisation au niveau :
   - pour les fichiers, avec le protocole WebDAV
   - il s'agit du client de synchronisation d'ownCloud
   - https://owncloud.com/download#desktop-clients
+  - ajout d'un fichier, et vérification qu'il est bien modifié des deux côtés
 - smartphone / tablettes
   - pour les fichiers, avec le protocole WebDAV
     - c'est l'application Nextcloud
