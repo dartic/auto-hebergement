@@ -40,6 +40,8 @@ https://apps.nextcloud.com/
     - `curl -L https://github.com/nextcloud/news/releases/download/9.0.4/news.tar.gz > news.tar.gz`
     - `gunzip news.tar.gz`
     - `tar -xf news.tar.gz news`
+  - aller dans le panneau d'ajout d'applications
+  - activer l'application news
   - ajouter deux nouveaux flux avec par exemple Gamekult et NextInpact
     - http://www.gamekult.com/cobranding/rss/news.xml
     - https://www.nextinpact.com/rss/news.xml
