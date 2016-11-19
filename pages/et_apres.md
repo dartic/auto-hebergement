@@ -61,14 +61,16 @@ rapidement dans la nature.
 
 Là, à mon sens, clairement, on ne joue plus dans la même cour.
 
-Quelles sont les technos libres actuelles :
-- Linagora =>
-- Bluemind => solution mail / calendrier / contacts
-- PostMail !... iRedMail, assemblage de divers composants
+Néanmoins, je peux conseiller l'utilisation d'iRedMail, 
+paquet qui comprend beaucoup de services déjà pré installés 
+comme Spam Assassin, fail2ban, ...
 
-Je conseille plutôt iRedMail, paquet qui comprend beaucoup de services déjà pré installés :
+Des éditeurs français comme Bluemind et Linagora proposent aussi
+des solutions intéressantes.
 
-http://www.iredmail.org/
+## J'ai un raspberry, ça se tente ?
+
+Bien sûr !
 
 Avec un petit raspberry, ça peut se faire facilement.
 
