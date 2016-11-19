@@ -7,8 +7,6 @@
 - installation de contacts
 - installation de stockage externe (External storage support)
 
-
-
 ## via les applications expérimentales 
 
 Store d'application :
