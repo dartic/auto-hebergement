@@ -37,6 +37,7 @@ https://apps.nextcloud.com/
 
 - installation de news, lecteur RSS
   - https://apps.nextcloud.com/apps/news
+  - 
   - ajouter deux nouveaux flux avec par exemple Gamekult et NextInpact
     - http://www.gamekult.com/cobranding/rss/news.xml
     - https://www.nextinpact.com/rss/news.xml
