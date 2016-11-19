@@ -36,7 +36,7 @@ On va se placer dans ce répertoire, et on va se mettre en super utilisateur :
 Pour chaque application à installer, nous devons respecter cet ordre là :
 
   - d'abord on récupère les sources de l'application
-    - `curl -L https://github.com/nextcloud/APP/releases/download/VERSION/APP.tar.gz > APP.tar.gz`
+    - `curl -L https://github.com/ORGANISATION/APP/releases/download/VERSION/APP.tar.gz > APP.tar.gz`
   - puis on dézipe
     - `gunzip APP.tar.gz`
   - on extrait l'archive
@@ -62,7 +62,7 @@ https://apps.nextcloud.com/
 
 ### 3) installation d'un lecteur audio
   - https://apps.nextcloud.com/apps/audioplayer
-  - Fichier à récupérer : https://github.com/juliushaertl/apporder/releases/download/0.3.3/apporder.tar.gz
+  - Fichier à récupérer : https://github.com/Rello/audioplayer/releases/download/1.3.1/audioplayer-1.3.1.tar.gz
   - ajouter des fichiers audio... échecs car limite de 2Mo...
   - => configurer PHP 
     - `sudo nano /etc/php/7.0/apache2/php.ini`
