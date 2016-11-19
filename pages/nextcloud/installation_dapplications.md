@@ -42,6 +42,7 @@ Pour chaque application à installer, nous devons respecter cet ordre là :
   - on extrait l'archive
     - `tar -xf APP.tar APP`
   - on va dans le menu d'ajout d'application pour activer l'application
+    - onglet `Désactivées`
 
 Puis on va regarder ce store d'applications non certifiées :
 https://apps.nextcloud.com/
@@ -49,11 +50,7 @@ https://apps.nextcloud.com/
 ### 1) installation de news, lecteur RSS
 
   - https://apps.nextcloud.com/apps/news
-    - `curl -L https://github.com/nextcloud/news/releases/download/9.0.4/news.tar.gz > news.tar.gz`
-    - `gunzip news.tar.gz`
-    - `tar -xf news.tar news`
-  - aller dans le panneau d'ajout d'applications
-  - activer l'application news (Désactivées > tout en bas)
+  - https://github.com/nextcloud/news/releases/download/9.0.4/news.tar.gz > news.tar.gz`
   - ajouter deux nouveaux flux avec par exemple Gamekult et NextInpact
     - http://www.gamekult.com/cobranding/rss/news.xml
     - https://www.nextinpact.com/rss/news.xml
