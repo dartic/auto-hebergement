@@ -6,6 +6,9 @@ Accès au store d'applications 'certifiées'
 
 - installation de calendrier
   - créer un nouvel événement
+  - partager l'agenda à l'utilisateur 'demo' en écriture
+  - mettre à jour l'événement
+  - constater la mise à jour
 - installation de contacts
   - créer un nouveau contact
 - installation de stockage externe (External storage support)
