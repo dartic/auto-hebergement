@@ -33,16 +33,18 @@ https://apps.nextcloud.com/
 - installation de apporder, outil pour réorganiser l'ordre des apps
   - https://apps.nextcloud.com/apps/apporder
   - y accéder à partir du menu
-
-https://apps.nextcloud.com/apps/audioplayer
-
-On ajoute des fichiers audio, limite de 2Mo
-
-=> configuration de PHP qui limite l'upload à 2Mo,
-
+- installation d'un lecteur audio
+  - https://apps.nextcloud.com/apps/audioplayer
+  - ajouter des fichiers audio
+  - limite de 2Mo...
+  - => configurer PHP
+  - `ssh user@192.168.1.18` + mdp `capitoledulibre`
+  - `sudo nano /etc/php/7.0/apache2/php.ini`
+  - Rechercher avec Ctrl + W 'upload_max_filesize'
+  - mettre à jour `2Mo` => `100Mo`
 Connexion SSH => 
 
-    sudo vi /etc/php/7.0/apache2/php.ini
+    sudo 
 => File upload => 100Mo
 upload_max_filesize = 100M
 post_max_size = 100M
