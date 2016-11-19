@@ -2,7 +2,8 @@
 
 ## via le bouton '+ Applications'
 
-- accès à un ensemble d'applications 'certifiées'
+Accès au store d'applications 'certifiées'
+
 - installation de calendrier
 - installation de contacts
 - installation de stockage externe (External storage support)
