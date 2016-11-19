@@ -6,11 +6,11 @@
 > 
 > Nous avons aujourd'hui le choix de continuer l'utilisation de services gratuits, 
 > 
-> mais peu respectueux de notre vie privée, 
+> mais peu respectueux de notre vie privée, (enfin... ça dépend lesquels...)
 > 
-> Ou d'essayer à maîtriser, 
+> Ou nous pouvons essayer de mieux maîtriser, 
 > 
-> mettre en place les outils existant pour redevenir maître de nos données... 
+> et mettre en place les outils existant pour redevenir maître de nos données... 
 > 
 > Du moins, un peu plus...
 
