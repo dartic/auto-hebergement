@@ -10,7 +10,7 @@ Accès au store d'applications 'certifiées'
 
 ## via les applications expérimentales 
 
-Store d'application :
+Accès au store d'application non certifiées :
 https://apps.nextcloud.com/
 
 Par exemple, on peut télécharger celles ci :
