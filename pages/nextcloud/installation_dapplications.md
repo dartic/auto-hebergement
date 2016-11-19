@@ -54,7 +54,6 @@ https://apps.nextcloud.com/
   - app pas encore assez aboutie (on ne peut pas trier ses mails, créer des dossiers)
   - mais câblée aux contacts.
 
-https://apps.nextcloud.com/apps/ocsms
 
 https://apps.nextcloud.com/apps/spreedme
 Permet de faire de la vidéo conf, nécessite d'avoir un serveur installé sur la machine.
