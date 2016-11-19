@@ -15,7 +15,8 @@ On utilise ici `sudo` qui nous permet de copier le fichier dans `/var/www/html`
 en tant que superutilisateur.
 
 En effet, le répertoire `/var/www/html` a été créé par l'utilisateur `root` 
-et ne peut pas être écrit directement par un utilisateur 'lambda'.
+et ne peut pas être écrit directement par un utilisateur 'lambda', 
+`user` dans notre cas.
 
 
 ## Procédure d'installation
