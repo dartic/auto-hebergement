@@ -28,9 +28,10 @@ Pour installer ces applications,
 on doit les installer manuellement dans le répertoire `apps`
 de Nextcloud.
 
-On va se placer dans ce répertoire :
+On va se placer dans ce répertoire, et on va se mettre en super utilisateur :
 
     cd /var/www/html/apps
+    sudo su
 
 Puis on va regarder ce store d'applications non certifiées :
 https://apps.nextcloud.com/
