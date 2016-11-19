@@ -10,7 +10,7 @@ Accès au store d'applications 'certifiées'
   - mettre à jour l'événement
   - constater la mise à jour pour l'utilisateur 'admin'
 - installation de contacts
-  - créer un nouveau contact
+  - idem que pour calendrier
 - installation de stockage externe (External storage support)
   - ajouter un stockage externe depuis l'administration globale,
     et vérifier qu'il est bien accessible depuis tous les utilisateurs
