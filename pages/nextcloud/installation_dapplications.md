@@ -22,12 +22,10 @@ Accès au store d'applications 'certifiées'
 Accès au store d'application non certifiées :
 https://apps.nextcloud.com/
 
-- installation de news, lecteur RSS
-
-https://apps.nextcloud.com/apps/news
-
-Créer un nouveau flux avec par exemple Gamekult
-http://www.gamekult.com/cobranding/rss/news.xml
+- installation de news, lecteur RSS : https://apps.nextcloud.com/apps/news
+  - ajouter un nouveau flux avec par exemple Gamekult
+  - http://www.gamekult.com/cobranding/rss/news.xml
+- installation de apporder, outil pour réorganiser l'ordre des apps
 
 
 https://apps.nextcloud.com/apps/apporder
