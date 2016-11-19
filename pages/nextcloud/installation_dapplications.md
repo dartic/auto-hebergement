@@ -35,19 +35,18 @@ https://apps.nextcloud.com/
   - y accéder à partir du menu
 - installation d'un lecteur audio
   - https://apps.nextcloud.com/apps/audioplayer
-  - ajouter des fichiers audio
-  - limite de 2Mo...
+  - ajouter des fichiers audio... échecs car limite de 2Mo...
   - => configurer PHP
-  - `ssh user@192.168.1.18` + mdp `capitoledulibre`
-  - `sudo nano /etc/php/7.0/apache2/php.ini`
-  - Rechercher avec Ctrl + W 'upload_max_filesize'
-  - mettre à jour `2M` => `100M`
-  - `upload_max_filesize = 100M`
-  - Rechercher avec Ctrl + W 'post_max_size'
-  - mettre à jour `8M` => `100M`
-  - `post_max_size = 100M`
-  - `sudo service apache2 restart`
-
+    - `ssh user@192.168.1.18` + mdp `capitoledulibre`
+    - `sudo nano /etc/php/7.0/apache2/php.ini`
+    - Rechercher avec Ctrl + W 'upload_max_filesize'
+    - mettre à jour `2M` => `100M`
+    - `upload_max_filesize = 100M`
+    - Rechercher avec Ctrl + W 'post_max_size'
+    - mettre à jour `8M` => `100M`
+    - `post_max_size = 100M`
+    - `sudo service apache2 restart`
+  
 https://apps.nextcloud.com/apps/direct_menu
 
 Améliore l'accessibilité des apps
