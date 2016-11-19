@@ -16,7 +16,7 @@
 
 https://2016.capitoledulibre.org/programme.html#lautohebergement-mode-demploi
 
-Je suis Mathieu Dartigues (@mdartic).
+Je suis Mathieu Dartigues (@mdartic). Je suis développeur web chez Makina Corpus.
 
 J'ai écrit ce gitbook en vue de l'atelier 
 **Auto-hébergement, mode d'emploi**
