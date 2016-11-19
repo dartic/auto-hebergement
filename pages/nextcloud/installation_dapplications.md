@@ -47,10 +47,12 @@ https://apps.nextcloud.com/
   - ajouter deux nouveaux flux avec par exemple Gamekult et NextInpact
     - http://www.gamekult.com/cobranding/rss/news.xml
     - https://www.nextinpact.com/rss/news.xml
-- installation de apporder, outil pour réorganiser l'ordre des apps
+
+### installation de apporder, outil pour réorganiser l'ordre des apps
   - https://apps.nextcloud.com/apps/apporder
   - y accéder à partir du menu
-- installation d'un lecteur audio
+
+### installation d'un lecteur audio
   - https://apps.nextcloud.com/apps/audioplayer
   - ajouter des fichiers audio... échecs car limite de 2Mo...
   - => configurer PHP 
@@ -62,16 +64,22 @@ https://apps.nextcloud.com/
     - mettre à jour `8M` => `100M`
     - `post_max_size = 100M`
     - `sudo service apache2 restart`
-- installer direct menu, qui permet d'avoir une barre supérieure d'accès aux apps
+
+### installer direct menu, qui permet d'avoir une barre supérieure d'accès aux apps
+
   - https://apps.nextcloud.com/apps/direct_menu
-- installer un lecteur de mail
+
+### installer un lecteur de mail
+
   - https://apps.nextcloud.com/apps/mail
   - permet de se connecter à son propre serveur mail
   - mémorise les informations de connexion
   - app pas encore assez aboutie (on ne peut pas trier ses mails, créer des dossiers)
   - mais câblée aux contacts.
-- installer un système de visio conférence
-  - https://apps.nextcloud.com/apps/spreedme
+
+### installer un système de visio conférence
+
+  -   - https://apps.nextcloud.com/apps/spreedme
   - permet de faire de la vidéo conf
   - nécessite d'avoir un serveur spreedme-server installé sur la machine
   - https://github.com/strukturag/spreed-webrtc
