@@ -24,6 +24,14 @@ Les applications expérimentales sont plus difficiles d'accès.
 
 Mais ce n'est pas mission impossible !
 
+Pour installer ces applications, 
+on doit les installer manuellement dans le répertoire `apps`
+de Nextcloud.
+
+On va se placer dans ce répertoire :
+
+    cd /var/www/html/apps
+
 Accès au store d'application non certifiées :
 https://apps.nextcloud.com/
 
