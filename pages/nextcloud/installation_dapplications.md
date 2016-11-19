@@ -29,8 +29,9 @@ https://apps.nextcloud.com/
 
 - installation de news, lecteur RSS
   - https://apps.nextcloud.com/apps/news
-  - ajouter un nouveau flux avec par exemple Gamekult
+  - ajouter un nouveau flux avec par exemple Gamekult et NextInpact
   - http://www.gamekult.com/cobranding/rss/news.xml
+  - https://www.nextinpact.com/rss/news.xml
 - installation de apporder, outil pour réorganiser l'ordre des apps
   - https://apps.nextcloud.com/apps/apporder
   - y accéder à partir du menu
