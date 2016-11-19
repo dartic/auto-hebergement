@@ -9,7 +9,10 @@ Accès au store d'applications 'certifiées'
 - installation de contacts
   - créer un nouveau contact
 - installation de stockage externe (External storage support)
-  - ajouter un stockage externe depuis l'administration globale
+  - ajouter un stockage externe depuis l'administration globale,
+    et vérifier qu'il est bien accessible depuis tous les utilisateurs
+  - ajouter un stockage externe depuis l'utilisateur 'demo',
+    et vérifier qu'il n'est accessible que depuis l'utilisateur 'demo'
 
 ## via les applications expérimentales 
 
