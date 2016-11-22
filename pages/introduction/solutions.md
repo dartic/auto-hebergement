@@ -13,6 +13,7 @@ Il n'y a pas de restriction !
 | ownCloud | Hébergement de fichiers | http://owncloud.org |
 | Nextcloud | Hébergement de fichiers | http://nextcloud.com |
 | Cozy | Hébergement de fichiers | http://cozy.io |
+| Seafile | Hébergement de fichier | https://www.seafile.com/en/home/ |
 | GitLab | Versioning de code source | http://gitlab.com |
 | iRedMail | Serveur messagerie | http://www.iredmail.org/ |
 | OBM | Serveur messagerie | https://www.linagora.com/obm |
