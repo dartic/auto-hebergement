@@ -1,6 +1,6 @@
 # L'auto-hébergement, mode d'emploi
 
-> A l'heure ou nos amis du GAFA absorbent allègrement nos données personnelles, 
+> A l'heure ou nos amis du GAFAM absorbent allègrement nos données personnelles, 
 > 
 > Mais aussi où les logiciels libres arrivent à maturité sur certaines problématiques, 
 > 
